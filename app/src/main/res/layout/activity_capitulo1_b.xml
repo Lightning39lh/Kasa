@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".Busqueda.Capitulo1B">
+
+
+<TextView
+    android:id="@+id/tvc1tiempo"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:padding="10dp"
+    android:text="temporizador"
+    android:textAlignment="center"
+    />
+
+<TextView
+    android:id="@+id/tvc1puntos"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentRight="true"
+    android:padding="10dp"
+    android:text="TextView"
+    android:textAlignment="center"
+
+    android:textColor="#35B330"/>
+<TextView
+    android:id="@+id/tvc1puntosMax"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:padding="10dp"
+    android:text="TextView"
+    android:textAlignment="center"
+    android:textColor="#35B330"/>
+
+
+<TextView
+    android:id="@+id/tvc1Romangi"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:layout_below="@+id/tvc1puntos"
+    android:padding="10dp"
+    android:text="TextView"/>
+<Button
+    android:id="@+id/btcap1g1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:layout_below="@+id/tvc1Romangi"
+    android:onClick="onClickButton1"
+    android:padding="15dp"/>
+<Button
+    android:id="@+id/btcap1g2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:layout_below="@+id/btcap1g1"
+    android:onClick="onClickButton2"
+    android:padding="15dp"
+    />
+
+<Button
+    android:id="@+id/btcap1g3"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:layout_below="@+id/btcap1g2"
+    android:onClick="onClickButton3"
+    android:padding="15dp"/>
+<Button
+    android:id="@+id/btcap1g4"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:layout_below="@+id/btcap1g3"
+    android:onClick="onClickButton4"
+    android:padding="15dp"/>
+
+<Button
+    android:id="@+id/btcap1g5"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:layout_below="@+id/btcap1g4"
+    android:onClick="onClickButton5"
+    android:padding="15dp"/>
+
+
+</RelativeLayout>

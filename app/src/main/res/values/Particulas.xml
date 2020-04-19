@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mo">
+        <item>Cuando el topico principal es el mismo que el anterior se usa el も　en vez del は</item>
+    </string-array>
+    <string-array name="moj">
+        <item>ミラーさんもがくせいです。</item>
+    </string-array>
+    <string-array name="mor">
+        <item>Miller TAMBIEN es estudiante</item>
+    </string-array>
+
+
+
+
+    <string-array name="no">
+        <item>Cuando S1 modifica a S2</item>
+        <item>S1 aclara sobre que es S2</item>
+        <item>S1 aclara a quien pertenece S2</item>
+    </string-array>
+    <string-array name="noj">
+        <item>ミラーさんはにほんごのがくせいです。</item>
+        <item>これはコンピューターのほんです。</item>
+        <item>これはわたしのほんです。</item>
+    </string-array>
+    <string-array name="nor">
+        <item>Miller es estudiante DE japones</item>
+        <item>Este es un libro DE/SOBRE computadoras</item>
+        <item>Este es mi libro</item>
+    </string-array>
+
+
+
+
+
+</resources>

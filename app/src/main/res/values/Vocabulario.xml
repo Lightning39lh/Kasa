@@ -1,0 +1,1519 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Cap1">
+        <item>わたし</item>
+        <item>わたしたち</item>
+        <item>あなた</item>
+        <item>あのひと</item>
+        <item>あのかた</item>
+        <item>みなさん</item>
+        <item>さん</item>
+        <item>ちゃん</item>
+        <item>くん</item>
+        <item>じん</item>
+        <item>せんせい</item>
+        <item>きょうし</item>
+        <item>がくせい</item>
+        <item>かいしゃいん</item>
+        <item>しゃいん</item>
+        <item>ぎんこういん</item>
+        <item>いしゃ</item>
+        <item>けんきゅうしゃ</item>
+        <item>エンジニア</item>
+        <item>だいがく</item>
+        <item>びょういん</item>
+        <item>でんき</item>
+        <item>だれ</item>
+        <item>どなた</item>
+        <item>-さい</item>
+        <item>なんさい</item>
+        <item>おいくつ</item>
+        <item>はい</item>
+        <item>いいえ</item>
+        <item>しつれいですが</item>
+        <item>おなまえは?</item>
+        <item>はじめまして</item>
+        <item>どうぞよろしく[おれがいします]</item>
+        <item>こちらは～さんです</item>
+        <item>～からきました</item>
+        <item>アメリカ</item>
+        <item>イギリス</item>
+        <item>インド</item>
+        <item>インドネシア</item>
+        <item>かんこく</item>
+        <item>タイ</item>
+        <item>ちゅうごく</item>
+        <item>ドイツ</item>
+        <item>にほん</item>
+        <item>フランス</item>
+        <item>ブラジル</item>
+
+
+
+    </string-array>
+
+    <string-array name="Cap1R">
+        <item>Yo</item>
+        <item>Nosotros</item>
+        <item>Ud.</item>
+        <item>Aquella persona,èl,ella</item>
+        <item>Aquella persona,èl,ella</item>
+        <item>Señoras y señores, todos Uds.</item>
+        <item>Sr., Sra., Srta.</item>
+        <item>Sufijo, frecuentemente en niños</item>
+        <item>Sufijo, frecuentemente en niños varones</item>
+        <item>Sufijo para nacionalidad de una persona</item>
+        <item>Maestro, profesor, instructor</item>
+        <item>Maestro, instructor (a si mismo)</item>
+        <item>Estudiante</item>
+        <item>Empleado de empresa</item>
+        <item>Empleado de empresa(ICM のきゃいん</item>
+        <item>Funcionario de banco</item>
+        <item>Medico</item>
+        <item>Investigador, estudioso</item>
+        <item>Ingeniero</item>
+        <item>Universidad</item>
+        <item>Hospital</item>
+        <item>Electricidad, luz(electrica)</item>
+        <item>Quien(informal)</item>
+        <item>Quien(formal)</item>
+        <item> - Años de edad</item>
+        <item>Cuantos años</item>
+        <item>Cuantos años (formal)</item>
+        <item>Si</item>
+        <item>No</item>
+        <item>Disculpe, pero (Para preguntas personales</item>
+        <item>¿Cual es su nombre?</item>
+        <item>Mucho Gusto.</item>
+        <item>Encantado/a./Mucho Gusto.</item>
+        <item>Le presento al Sr./Sra./Srta　～</item>
+        <item>Soy de ～./Vengo de ～.</item>
+        <item>EE.UU.</item>
+        <item>Reino Unido</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Corea del Sur</item>
+        <item>Tailandia</item>
+        <item>China</item>
+        <item>Alemania</item>
+        <item>Japon</item>
+        <item>Francia</item>
+        <item>Brasil</item>
+    </string-array>
+
+
+    <string-array name="Cap2">
+        <item>これ</item>
+        <item>それ</item>
+        <item>あれ</item>
+        <item>この～</item>
+        <item>その～</item>
+        <item>あの～</item>
+        <item>ほん</item>
+        <item>じしょ</item>
+        <item>ざっし</item>
+        <item>しんふん</item>
+        <item>ノート</item>
+        <item>てちょう</item>
+        <item>めいし</item>
+        <item>カード</item>
+        <item>テレホンカード</item>
+        <item>えんぴつ</item>
+        <item>ボルペン</item>
+        <item>シャープペンシル</item>
+        <item>かぎ</item>
+        <item>とけお</item>
+        <item>かさ</item>
+        <item>かぱん</item>
+        <item>[カセット]テープ</item>
+        <item>テープレコーダー</item>
+        <item>テレビ</item>
+        <item>ラジオ</item>
+        <item>カメラ</item>
+        <item>コンピューター</item>
+        <item>しどうしゃ</item>
+        <item>つくえ</item>
+        <item>いす</item>
+        <item>チョコレート</item>
+        <item>コーヒー</item>
+        <item>えいご</item>
+        <item>にほんご</item>
+        <item>～ご</item>
+        <item>なん</item>
+        <item>そう</item>
+        <item>ちがいます</item>
+        <item>そうですか</item>
+        <item>あのう</item>
+        <item>ほんのきもちです</item>
+        <item>どうぞ</item>
+        <item>どうも</item>
+        <item>ありがとう[ごさいます]</item>
+        <item>これからおせわになります</item>
+        <item>こちらこそやろしく</item>
+
+
+    </string-array>
+    <string-array name="Cap2R">
+        <item>éste, ésta, esto</item>
+        <item>ése, ésa, eso</item>
+        <item>aquél, aquélla, aquello</item>
+        <item>este ～, esta ～</item>
+        <item>ese ～, esa ～</item>
+        <item>aquel ～, aquella ～</item>
+        <item>libro</item>
+        <item>diccionario</item>
+        <item>revista</item>
+        <item>periódico</item>
+        <item>cuaderno</item>
+        <item>agenda</item>
+        <item>tarjeta de negocio</item>
+        <item>tarjeta</item>
+        <item>tarjeta de teléfono</item>
+        <item>lápiz</item>
+        <item>boligrafo</item>
+        <item>portaminas</item>
+        <item>llave, clave</item>
+        <item>reloj</item>
+        <item>paraguas</item>
+        <item>valija</item>
+        <item>cinta [cassette]</item>
+        <item>grabadora</item>
+        <item>televisor</item>
+        <item>radio</item>
+        <item>cámara</item>
+        <item>computadora</item>
+        <item>automóvil</item>
+        <item>escritorio</item>
+        <item>silla</item>
+        <item>chocolate</item>
+        <item>café</item>
+        <item>el idioma inglés</item>
+        <item>el idioma japonés</item>
+        <item>idioma ～</item>
+        <item>qué</item>
+        <item>así</item>
+        <item>no, no es así</item>
+        <item>¿ah sí?Ya</item>
+        <item>esto...</item>
+        <item>Es un obsequio modesto</item>
+        <item>Por favor./Aqui tiene</item>
+        <item>Gracias</item>
+        <item>[Muchas] gracias</item>
+        <item>le agradezco de antemano su gentil apoyo</item>
+        <item>Yo tambien estoy encantado/a de conocerle</item>
+
+
+    </string-array>
+    <string-array name="Cap3">
+        <item>ここ</item>
+        <item>そこ</item>
+        <item>あそこ</item>
+        <item>どこ</item>
+        <item>こちら</item>
+        <item>そちら</item>
+        <item>あちら</item>
+        <item>どちら</item>
+        <item>きょうしつ</item>
+        <item>しょくどう</item>
+        <item>じみしょ</item>
+        <item>かいぎしつ</item>
+        <item>うけつけ</item>
+        <item>ロビー</item>
+        <item>へや</item>
+        <item>トイレ(おてあらい)</item>
+        <item>かいだん</item>
+        <item>エレベーター</item>
+        <item>エスカレーター</item>
+        <item>[お]くに</item>
+        <item>かいしゃ</item>
+        <item>うち</item>
+        <item>てんわ</item>
+        <item>くつ</item>
+        <item>ネクタイ</item>
+        <item>ワイン</item>
+        <item>たばこ</item>
+        <item>うりば</item>
+        <item>ちか</item>
+        <item>－かい(-がい)</item>
+        <item>なんがい</item>
+        <item>-えん</item>
+        <item>いくら</item>
+        <item>ひゃく</item>
+        <item>せん</item>
+        <item>ほん</item>
+        <item>すみません</item>
+        <item>～でごさいます</item>
+        <item>[～を]みせてください</item>
+        <item>じゃ</item>
+        <item>[～を]ください</item>
+        <item>しんおおさか</item>
+        <item>イタリア</item>
+        <item>スイス</item>
+
+
+    </string-array>
+    <string-array name="Cap3R">
+    <item>aquí,acá, este lugar</item>
+    <item>ahí, ese lugar</item>
+    <item>aquel lugar</item>
+    <item>dónde, qué lugar</item>
+    <item>por aquí, este lugar</item>
+    <item>por ahí, ese lugar</item>
+    <item>por alli, aquel lugar</item>
+    <item>por dónde, dónde</item>
+    <item>aula</item>
+    <item>comedor</item>
+    <item>oficina</item>
+    <item>sala de reuniones</item>
+    <item>recepción</item>
+    <item>lóbi</item>
+    <item>habitacion</item>
+    <item>baño</item>
+    <item>escaeras</item>
+    <item>ascensor</item>
+    <item>escalera mecánica</item>
+    <item>[su] país</item>
+    <item>empresa, firma</item>
+    <item>casa</item>
+    <item>teléfono</item>
+    <item>zapatos</item>
+    <item>corbata</item>
+    <item>vino</item>
+    <item>tabaco</item>
+    <item>sección</item>
+    <item>sótano</item>
+    <item>- piso,planta</item>
+    <item>qué piso</item>
+    <item>- yen</item>
+    <item>cuánto(dinero)</item>
+    <item>cien</item>
+    <item>mil</item>
+    <item>diez mil</item>
+    <item>disculpe</item>
+    <item>forma cortés de です</item>
+    <item>por favor muestreme</item>
+    <item>bueno, entonces</item>
+    <item>deme [], por favor</item>
+    <item>una estación de Osaka</item>
+    <item>Italia</item>
+    <item>Suiza</item>
+
+</string-array>
+    <string-array name="Cap4">
+        <item>おきます</item>
+        <item>ねます</item>
+        <item>はたらきます</item>
+        <item>やすみます</item>
+        <item>べんきょうします</item>
+        <item>おわります</item>
+        <item>デパート</item>
+        <item>ぎんこう</item>
+        <item>ゆうびんきょく</item>
+        <item>としょかん</item>
+        <item>びじゅつかん</item>
+        <item>いま</item>
+        <item>～じ</item>
+        <item>～ふん(～ぷん)</item>
+        <item>はん</item>
+        <item>なんじ</item>
+        <item>なんぷん</item>
+        <item>ごぜん</item>
+        <item>ごご</item>
+        <item>あさ</item>
+        <item>ひる</item>
+        <item>ばん(よる)</item>
+        <item>おととい</item>
+        <item>きのう</item>
+        <item>きょう</item>
+        <item>あした</item>
+        <item>あさって</item>
+        <item>けさ</item>
+        <item>こんばん</item>
+        <item>やすみ</item>
+        <item>ひるやすみ</item>
+        <item>まいあさ</item>
+        <item>まいばん</item>
+        <item>まいにち</item>
+        <item>げつようび</item>
+        <item>かようび</item>
+        <item>すいようび</item>
+        <item>もくようび</item>
+        <item>きんようび</item>
+        <item>どようび</item>
+        <item>にちようび</item>
+        <item>なんようび</item>
+        <item>ばんごう</item>
+        <item>なんばん</item>
+        <item>～から</item>
+        <item>～まで</item>
+        <item>～と～</item>
+        <item>そちら</item>
+        <item>たいべんですね。</item>
+        <item>え-と</item>
+
+    </string-array>
+
+    <string-array name="Cap4R">
+        <item>Levantarse</item>
+        <item>Acostarse</item>
+        <item>Trabajar</item>
+        <item>Descansar</item>
+        <item>Estudiar</item>
+        <item>Terminar</item>
+        <item>Grandes almacenes</item>
+        <item>Banco</item>
+        <item>Oficina de correos</item>
+        <item>Biblioteca</item>
+        <item>Museo de arte</item>
+        <item>Ahora</item>
+        <item>Las ～ horas</item>
+        <item>～ Minutos</item>
+        <item>Y media</item>
+        <item>¿Qué hora?</item>
+        <item>¿Qué minuto?</item>
+        <item>De la mañana</item>
+        <item>De la tarde</item>
+        <item>La mañana</item>
+        <item>Dia, mediodia</item>
+        <item>Noche</item>
+        <item>Anteayer</item>
+        <item>Ayer</item>
+        <item>Hoy</item>
+        <item>Mañana</item>
+        <item>Pasado mañana</item>
+        <item>Esta mañana</item>
+        <item>Esta noche</item>
+        <item>Descanso, día libre</item>
+        <item>Descanso de mediodia</item>
+        <item>Todas las mañanas</item>
+        <item>Todas las noches</item>
+        <item>Todos los días</item>
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miercoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sabado</item>
+        <item>Domingo</item>
+        <item>qué día de la semana</item>
+        <item>Número</item>
+        <item>Qué número</item>
+        <item>Desde ～</item>
+        <item>Hasta ～</item>
+        <item>Y (para conectar sust)</item>
+        <item>Su lugar</item>
+        <item>¡Le esta costando mucho!</item>
+        <item>Esto..., Bueno...</item>
+    </string-array>
+    <string-array name="Cap8">
+        <item>ハンサム[な]</item>
+        <item>きれい[な]</item>
+        <item>しずか[な]</item>
+        <item>にげやか[な]</item>
+        <item>ゆうめい[な]</item>
+        <item>しんせつ[な]</item>
+        <item>げんき[な]</item>
+        <item>ひま[な]</item>
+        <item>べんり[な]</item>
+        <item>すてき[な]</item>
+        <item>おおきい</item>
+        <item>ちいさい</item>
+        <item>おたらしい</item>
+        <item>ふるい</item>
+        <item>いい（よい）</item>
+        <item>わるい</item>
+        <item>あつい</item>
+        <item>さむい</item>
+        <item>つめたい</item>
+        <item>むずかしい</item>
+        <item>やさしい</item>
+        <item>たかい</item>
+        <item>やすい</item>
+        <item>ひくい</item>
+        <item>おもしろい</item>
+        <item>おいしい</item>
+        <item>いそがしい</item>
+        <item>たのしい</item>
+        <item>しろい</item>
+        <item>くろい</item>
+        <item>あかい</item>
+        <item>あおい</item>
+        <item>さくら</item>
+        <item>やま</item>
+        <item>まち</item>
+        <item>たべまの</item>
+        <item>くるま</item>
+        <item>ところ</item>
+        <item>りょう</item>
+        <item>べんきょう</item>
+        <item>せいかつ</item>
+        <item>[お]しごと</item>
+        <item>どう</item>
+        <item>どんな～</item>
+        <item>どれ</item>
+        <item>とても</item>
+        <item>あまり</item>
+        <item>そして</item>
+        <item>～が、～</item>
+        <item>あげんきですか</item>
+       <item>そうですね</item>
+       <item>にほんのせいかつになれましたか</item>
+       <item>[～、]もういっぱいいかがですか</item>
+       <item>いいえ、けっこうです</item>
+       <item>もう　～です[ね]</item>
+       <item>そろそろしつれいします</item>
+       <item>またらいっしゃってください</item>
+       <item>ふじさん</item>
+       <item>びわこ</item>
+       <item>シャンガイ</item>
+       <item>[しちにんのさむらい]</item>
+       <item>きんかくじ</item>
+    </string-array>
+
+    <string-array name="Cap8R">
+        <item>Guapo(Adj. de apariencia de varones</item>
+        <item>Hermoso, limpio</item>
+        <item>Tranquilo (relativo a lo acustico)</item>
+        <item>Concurrido, animado</item>
+        <item>Famoso, célebre</item>
+        <item>Amable, generoso</item>
+        <item>Sano, con ánimo</item>
+        <item>Estar libre</item>
+        <item>Conveniente</item>
+        <item>Bonito, fino</item>
+        <item>Grande</item>
+        <item>Pequeño</item>
+        <item>Nuevo</item>
+        <item>Viejo, antiguo(no se emplea en personas)</item>
+        <item>Bueno</item>
+        <item>Malo</item>
+        <item>Caluroso, caliente</item>
+        <item>Frio(Clima o temperatura)</item>
+        <item>Frío (relativo a la sensación de toque)</item>
+        <item>Difícil</item>
+        <item>Fácil</item>
+        <item>Caro, alto</item>
+        <item>Barato</item>
+        <item>Bajo (altura/estatura)</item>
+        <item>Interesante</item>
+        <item>Delicioso, sabroso, rico</item>
+        <item>Atareado</item>
+        <item>Divertido, placentero</item>
+        <item>Blanco</item>
+        <item>Negro</item>
+        <item>Rojo</item>
+        <item>Azul</item>
+        <item>Árbol o flor de cerezo</item>
+        <item>Montaña, monte</item>
+        <item>Poblacion (Ciudades no muy grandes)</item>
+        <item>Comida, alimentos</item>
+        <item>Vehiculo, auto, coche</item>
+        <item>Lugar</item>
+        <item>Residencia (de escuelas y empresas)</item>
+        <item>Estudio</item>
+        <item>Vida diaria</item>
+        <item>Trabajo, profesión</item>
+        <item>Cómo</item>
+        <item>Què clase de ～</item>
+        <item>Cuál</item>
+        <item>Muy, mucho(adv.)</item>
+        <item>No tan, no muy(se emplea con formas negativas)</item>
+        <item>Y (Se emplea para conectar oraciones)</item>
+        <item>-,pero-</item>
+        <item>¿Cómo esta Ud.?</item>
+        <item>Bueno...(Al estar pensando en qué contestar)</item>
+        <item>¿Se ha acostumbrado a la vida en Japón?</item>
+        <item>¿Le apetece otra caza (copa, vaso) de[～]?</item>
+        <item>No, gracias.</item>
+        <item>ya es ～[¿verdad?]</item>
+        <item>Es hora de marcharnos.</item>
+        <item>Vuelva a visitarnos. (para despedir invitados)</item>
+        <item>Monte Fuji</item>
+        <item>Lago Biwa</item>
+        <item>Shangai</item>
+        <item>"Los siete Samurai"(Pelicula)</item>
+        <item>Templo Budista Kinkakuji</item>
+    </string-array>
+
+
+    <string-array name="Cap9">
+       <item>わかります</item>
+       <item>あります</item>
+       <item>すき[な]</item>
+       <item>きらい[な]</item>
+       <item>じょうず[な]</item>
+       <item>へた[な]</item>
+       <item>りょうり</item>
+       <item>のみもの</item>
+       <item>スポ-ツ</item>
+       <item>やきゅう</item>
+       <item>ダンス</item>
+       <item>おんがく</item>
+       <item>うた</item>
+       <item>クラシック</item>
+       <item>ジャズ</item>
+       <item>コンセ-ト</item>
+       <item>カラオケ</item>
+       <item>かぶき</item>
+       <item>え</item>
+       <item>じ</item>
+       <item>かんじ</item>
+       <item>ひらがな</item>
+       <item>かたかな</item>
+       <item>ロ-マじ</item>
+       <item>こまかいおかね</item>
+       <item>チケット</item>
+       <item>じかん</item>
+       <item>ようじ</item>
+       <item>やくそく</item>
+       <item>ごしゅじん</item>
+       <item>おっと/しゅじん</item>
+       <item>おくさん</item>
+       <item>つま/かない</item>
+       <item>こども</item>
+       <item>よく</item>
+       <item>だいたい</item>
+       <item>たくさん</item>
+       <item>すこし</item>
+       <item>ぜんぜん</item>
+       <item>はやく</item>
+       <item>～から</item>
+       <item>どうして</item>
+       <item>ぜんねんです[ね]</item>
+       <item>すみません</item>
+       <item>もしもし</item>
+       <item>ああ</item>
+       <item>いっしょにいかがですか</item>
+       <item>[～は]　ちょっと・・・</item>
+       <item>だめですか</item>
+       <item>またこんとおねがいします</item>
+    </string-array>
+
+    <string-array name="Cap9R">
+       <item> Entender, comprender</item>
+       <item> Hay</item>
+       <item> Gustar</item>
+       <item> No gustar</item>
+       <item> Ser bueno, ser hábil</item>
+       <item> No ser bueno, no ser hábil</item>
+       <item> Plato (relativo a la comida)</item>
+       <item> Bebida</item>
+       <item> Deportes（～をします:Practicar）</item>
+       <item> Béisbol（～をします:jugar al béisbol）</item>
+       <item> Baile(（～をします:bailar）</item>
+       <item> Música</item>
+       <item> Canción</item>
+       <item> Música clásica</item>
+       <item> Jazz</item>
+       <item> Concierto</item>
+       <item> Karaoke</item>
+       <item> Kabuki (Teatro musical tradicional de Japón)</item>
+       <item> Pintura, dibujo</item>
+       <item> Letra</item>
+       <item> Letras chinas</item>
+       <item> Escritura de hiragana</item>
+       <item> Escritura de katakana</item>
+       <item> Alfabeto romano</item>
+       <item> Cambio (dinero en monedas de importes bajos)</item>
+       <item> (boleto de) entrada (conciertos,cine,etc)</item>
+       <item> Tiempo</item>
+       <item> Algo que hacer</item>
+       <item> Promesa, cita, compromiso </item>
+       <item> (su/tu) esposo</item>
+       <item> (mi) marido</item>
+       <item> (su/tu) señora</item>
+       <item> (mi) esposa</item>
+       <item> niño,(mi) hijo/a</item>
+       <item> bien,mucho</item>
+       <item> más o menos, aproximadamente</item>
+       <item> muchos, mucho</item>
+       <item> un poco, unos pocos</item>
+       <item> nada ～(se emplea enexpresiones negativas)</item>
+       <item> Temprano, rápido</item>
+       <item> porque ～ </item>
+       <item> por qué</item>
+       <item> Es una lástima./¡Qué pena!</item>
+       <item> Lo siento./perdóname.</item>
+       <item> haló.hola,bueno (al hablar por teléfono)</item>
+       <item> ah(indica que se dio cuenta quién está llamando)</item>
+       <item> ¿Nos acompaña?</item>
+       <item> [～]Es algo difícil. (euferismo utilizado para rehusar una invitacion)</item>
+       <item> ¿Así que no puede (venir, acompañarnos, etc.)?</item>
+       <item> Por favor vuelva a invitarme la próxima vez.</item>
+    </string-array>
+
+    <string-array name="Cap10">
+    <item>います</item>
+    <item>あります</item>
+    <item>いろいろ[な]</item>
+    <item>おとこのひと</item>
+    <item>おんなのひと</item>
+    <item>おとこのこ</item>
+    <item>おんなのこ</item>
+    <item>いぬ</item>
+    <item>ねこ</item>
+    <item>き</item>
+    <item>もの</item>
+    <item>フィルム</item>
+    <item>でんち</item>
+    <item>はこ</item>
+    <item>スイッチ</item>
+    <item>れいぞうこ</item>
+    <item>テーブル</item>
+    <item>ベッド</item>
+    <item>たな</item>
+    <item>ドア</item>
+    <item>まど</item>
+    <item>ポスト</item>
+    <item>ビル</item>
+    <item>こうえん</item>
+    <item>くっさてん</item>
+    <item>はんゃ</item>
+    <item>～や</item>
+    <item>のりば</item>
+    <item>はん</item>
+    <item>うえ　上</item>
+    <item>した　下</item>
+    <item>まえ　前</item>
+    <item>うしろ</item>
+    <item>みぎ　右</item>
+    <item>ひだり　</item>
+    <item>なか　中</item>
+    <item>そと　外</item>
+    <item>となり　隣</item>
+    <item>ちかく　近く</item>
+    <item>おいだ　間</item>
+    <item>～や～[など]</item>
+    <item>いちばん～</item>
+    <item>-だんめ</item>
+    <item>[どうも]すみません</item>
+    <item>チりン-ス</item>
+    <item>あく</item>
+    <item>スパイス・コ-ナ-</item>
+
+</string-array>
+    <string-array name="Cap10R">
+       <item> Estar. haber (relativo a la existencia de personas y animales</item>
+       <item> Estar, haber (relativo a la existencia de plantas, objetos y materiales)</item>
+       <item> Diversos/as (adj.)</item>
+       <item> Hombre</item>
+       <item> Mujer</item>
+       <item> Niño</item>
+       <item> Niña</item>
+       <item> Perro</item>
+       <item> gato</item>
+       <item> Árbol, madera</item>
+       <item> Cosa, objeto</item>
+       <item> Película de fotografia</item>
+       <item> pila, batería</item>
+       <item> Cajas</item>
+       <item> Interruptor</item>
+       <item> Refrigeradora, frigorifico, heladera</item>
+       <item> Mesa</item>
+       <item> Cama</item>
+       <item> Estante</item>
+       <item> Puerta</item>
+       <item> Ventana</item>
+       <item> Buzón</item>
+       <item> Edificio</item>
+       <item> Parque</item>
+       <item> Cafeteria</item>
+       <item> Librería</item>
+       <item> Tienda de ～, negocio de ～</item>
+       <item> Lugar donde se toman taxis,trenes,etc</item>
+       <item> Prefectura (Equivale a provincias, departamentos, etc.)</item>
+       <item> Arriba</item>
+       <item> Abajo</item>
+       <item> Adelante</item>
+       <item> Atrás</item>
+       <item> Derecha</item>
+       <item> Izquierda</item>
+       <item> Adentro</item>
+       <item> Afuera</item>
+       <item> Al lado</item>
+       <item> Cerca</item>
+       <item> Entre</item>
+       <item> ～,～, y otros</item>
+       <item> El/la más (superlativo)</item>
+       <item> el -er estante (だん　es contador de estantes.)</item>
+       <item> Gracias.</item>
+       <item> Salsa de chile/ají</item>
+       <item> Al fondo</item>
+       <item> Sección de especias</item>
+
+    </string-array>
+    <string-array name="vacio">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+
+
+    </string-array>
+
+    <string-array name="Cap0">
+        <item>わたし</item>
+        <item>わたしたち</item>
+        <item>あなた</item>
+        <item>あのひと</item>
+        <item>あのかた</item>
+        <item>みなさん</item>
+        <item>さん</item>
+        <item>ちゃん</item>
+        <item>くん</item>
+        <item>じん</item>
+        <item>せんせい</item>
+        <item>きょうし</item>
+        <item>がくせい</item>
+        <item>かいしゃいん</item>
+        <item>しゃいん</item>
+        <item>ぎんこういん</item>
+        <item>いしゃ</item>
+        <item>けんきゅうしゃ</item>
+        <item>エンジニア</item>
+        <item>だいがく</item>
+        <item>びょういん</item>
+        <item>でんき</item>
+        <item>だれ</item>
+        <item>どなた</item>
+        <item>-さい</item>
+        <item>なんさい</item>
+        <item>おいくつ</item>
+        <item>はい</item>
+        <item>いいえ</item>
+        <item>しつれいですが</item>
+        <item>おなまえは?</item>
+        <item>はじめまして</item>
+        <item>どうぞよろしく[おれがいします]</item>
+        <item>こちらは～さんです</item>
+        <item>～からきました</item>
+        <item>アメリカ</item>
+        <item>イギリス</item>
+        <item>インド</item>
+        <item>インドネシア</item>
+        <item>かんこく</item>
+        <item>タイ</item>
+        <item>ちゅうごく</item>
+        <item>ドイツ</item>
+        <item>にほん</item>
+        <item>フランス</item>
+        <item>ブラジル</item>
+        <item>これ</item>
+        <item>それ</item>
+        <item>あれ</item>
+        <item>この～</item>
+        <item>その～</item>
+        <item>あの～</item>
+        <item>ほん</item>
+        <item>じしょ</item>
+        <item>ざっし</item>
+        <item>しんふん</item>
+        <item>ノート</item>
+        <item>てちょう</item>
+        <item>めいし</item>
+        <item>カード</item>
+        <item>テレホンカード</item>
+        <item>えんぴつ</item>
+        <item>ボルペン</item>
+        <item>シャープペンシル</item>
+        <item>かぎ</item>
+        <item>とけお</item>
+        <item>かさ</item>
+        <item>かぱん</item>
+        <item>[カセット]テープ</item>
+        <item>テープレコーダー</item>
+        <item>テレビ</item>
+        <item>ラジオ</item>
+        <item>カメラ</item>
+        <item>コンピューター</item>
+        <item>しどうしゃ</item>
+        <item>つくえ</item>
+        <item>いす</item>
+        <item>チョコレート</item>
+        <item>コーヒー</item>
+        <item>えいご</item>
+        <item>にほんご</item>
+        <item>～ご</item>
+        <item>なん</item>
+        <item>そう</item>
+        <item>ちがいます</item>
+        <item>そうですか</item>
+        <item>あのう</item>
+        <item>ほんのきもちです</item>
+        <item>どうぞ</item>
+        <item>どうも</item>
+        <item>ありがとう[ごさいます]</item>
+        <item>これからおせわになります</item>
+        <item>こちらこそやろしく</item>
+        <item>ここ</item>
+        <item>そこ</item>
+        <item>あそこ</item>
+        <item>どこ</item>
+        <item>こちら</item>
+        <item>そちら</item>
+        <item>あちら</item>
+        <item>どちら</item>
+        <item>きょうしつ</item>
+        <item>しょくどう</item>
+        <item>じみしょ</item>
+        <item>かいぎしつ</item>
+        <item>うけつけ</item>
+        <item>ロビー</item>
+        <item>へや</item>
+        <item>トイレ(おてあらい)</item>
+        <item>かいだん</item>
+        <item>エレベーター</item>
+        <item>エスカレーター</item>
+        <item>[お]くに</item>
+        <item>かいしゃ</item>
+        <item>うち</item>
+        <item>てんわ</item>
+        <item>くつ</item>
+        <item>ネクタイ</item>
+        <item>ワイン</item>
+        <item>たばこ</item>
+        <item>うりば</item>
+        <item>ちか</item>
+        <item>－かい(-がい)</item>
+        <item>なんがい</item>
+        <item>-えん</item>
+        <item>いくら</item>
+        <item>ひゃく</item>
+        <item>せん</item>
+        <item>ほん</item>
+        <item>すみません</item>
+        <item>～でごさいます</item>
+        <item>[～を]みせてください</item>
+        <item>じゃ</item>
+        <item>[～を]ください</item>
+        <item>しんおおさか</item>
+        <item>イタリア</item>
+        <item>スイス</item>
+        <item>おきます</item>
+        <item>ねます</item>
+        <item>はたらきます</item>
+        <item>やすみます</item>
+        <item>べんきょうします</item>
+        <item>おわります</item>
+        <item>デパート</item>
+        <item>ぎんこう</item>
+        <item>ゆうびんきょく</item>
+        <item>としょかん</item>
+        <item>びじゅつかん</item>
+        <item>いま</item>
+        <item>～じ</item>
+        <item>～ふん(～ぷん)</item>
+        <item>はん</item>
+        <item>なんじ</item>
+        <item>なんぷん</item>
+        <item>ごぜん</item>
+        <item>ごご</item>
+        <item>あさ</item>
+        <item>ひる</item>
+        <item>ばん(よる)</item>
+        <item>おととい</item>
+        <item>きのう</item>
+        <item>きょう</item>
+        <item>あした</item>
+        <item>あさって</item>
+        <item>けさ</item>
+        <item>こんばん</item>
+        <item>やすみ</item>
+        <item>ひるやすみ</item>
+        <item>まいあさ</item>
+        <item>まいばん</item>
+        <item>まいにち</item>
+        <item>げつようび</item>
+        <item>かようび</item>
+        <item>すいようび</item>
+        <item>もくようび</item>
+        <item>きんようび</item>
+        <item>どようび</item>
+        <item>にちようび</item>
+        <item>なんようび</item>
+        <item>ばんごう</item>
+        <item>なんばん</item>
+        <item>～から</item>
+        <item>～まで</item>
+        <item>～と～</item>
+        <item>そちら</item>
+        <item>たいべんですね。</item>
+        <item>え-と</item>
+        <item>ハンサム[な]</item>
+        <item>きれい[な]</item>
+        <item>しずか[な]</item>
+        <item>にげやか[な]</item>
+        <item>ゆうめい[な]</item>
+        <item>しんせつ[な]</item>
+        <item>げんき[な]</item>
+        <item>ひま[な]</item>
+        <item>べんり[な]</item>
+        <item>すてき[な]</item>
+        <item>おおきい</item>
+        <item>ちいさい</item>
+        <item>おたらしい</item>
+        <item>ふるい</item>
+        <item>いい（よい）</item>
+        <item>わるい</item>
+        <item>あつい</item>
+        <item>さむい</item>
+        <item>つめたい</item>
+        <item>むずかしい</item>
+        <item>やさしい</item>
+        <item>たかい</item>
+        <item>やすい</item>
+        <item>ひくい</item>
+        <item>おもしろい</item>
+        <item>おいしい</item>
+        <item>いそがしい</item>
+        <item>たのしい</item>
+        <item>しろい</item>
+        <item>くろい</item>
+        <item>あかい</item>
+        <item>あおい</item>
+        <item>さくら</item>
+        <item>やま</item>
+        <item>まち</item>
+        <item>たべまの</item>
+        <item>くるま</item>
+        <item>ところ</item>
+        <item>りょう</item>
+        <item>べんきょう</item>
+        <item>せいかつ</item>
+        <item>[お]しごと</item>
+        <item>どう</item>
+        <item>どんな～</item>
+        <item>どれ</item>
+        <item>とても</item>
+        <item>あまり</item>
+        <item>そして</item>
+        <item>～が、～</item>
+        <item>あげんきですか</item>
+        <item>そうですね</item>
+        <item>にほんのせいかつになれましたか</item>
+        <item>[～、]もういっぱいいかがですか</item>
+        <item>いいえ、けっこうです</item>
+        <item>もう　～です[ね]</item>
+        <item>そろそろしつれいします</item>
+        <item>またらいっしゃってください</item>
+        <item>ふじさん</item>
+        <item>びわこ</item>
+        <item>シャンガイ</item>
+        <item>[しちにんのさむらい]</item>
+        <item>きんかくじ</item>
+        <item>わかります</item>
+        <item>あります</item>
+        <item>すき[な]</item>
+        <item>きらい[な]</item>
+        <item>じょうず[な]</item>
+        <item>へた[な]</item>
+        <item>りょうり</item>
+        <item>のみもの</item>
+        <item>スポ-ツ</item>
+        <item>やきゅう</item>
+        <item>ダンス</item>
+        <item>おんがく</item>
+        <item>うた</item>
+        <item>クラシック</item>
+        <item>ジャズ</item>
+        <item>コンセ-ト</item>
+        <item>カラオケ</item>
+        <item>かぶき</item>
+        <item>え</item>
+        <item>じ</item>
+        <item>かんじ</item>
+        <item>ひらがな</item>
+        <item>かたかな</item>
+        <item>ロ-マじ</item>
+        <item>こまかいおかね</item>
+        <item>チケット</item>
+        <item>じかん</item>
+        <item>ようじ</item>
+        <item>やくそく</item>
+        <item>ごしゅじん</item>
+        <item>おっと/しゅじん</item>
+        <item>おくさん</item>
+        <item>つま/かない</item>
+        <item>こども</item>
+        <item>よく</item>
+        <item>だいたい</item>
+        <item>たくさん</item>
+        <item>すこし</item>
+        <item>ぜんぜん</item>
+        <item>はやく</item>
+        <item>～から</item>
+        <item>どうして</item>
+        <item>ぜんねんです[ね]</item>
+        <item>すみません</item>
+        <item>もしもし</item>
+        <item>ああ</item>
+        <item>いっしょにいかがですか</item>
+        <item>[～は]　ちょっと・・・</item>
+        <item>だめですか</item>
+        <item>またこんとおねがいします</item>
+        <item>います</item>
+        <item>あります</item>
+        <item>いろいろ[な]</item>
+        <item>おとこのひと</item>
+        <item>おんなのひと</item>
+        <item>おとこのこ</item>
+        <item>おんなのこ</item>
+        <item>いぬ</item>
+        <item>ねこ</item>
+        <item>き</item>
+        <item>もの</item>
+        <item>フィルム</item>
+        <item>でんち</item>
+        <item>はこ</item>
+        <item>スイッチ</item>
+        <item>れいぞうこ</item>
+        <item>テーブル</item>
+        <item>ベッド</item>
+        <item>たな</item>
+        <item>ドア</item>
+        <item>まど</item>
+        <item>ポスト</item>
+        <item>ビル</item>
+        <item>こうえん</item>
+        <item>くっさてん</item>
+        <item>はんゃ</item>
+        <item>～や</item>
+        <item>のりば</item>
+        <item>はん</item>
+        <item>うえ　上</item>
+        <item>した　下</item>
+        <item>まえ　前</item>
+        <item>うしろ</item>
+        <item>みぎ　右</item>
+        <item>ひだり　</item>
+        <item>なか　中</item>
+        <item>そと　外</item>
+        <item>となり　隣</item>
+        <item>ちかく　近く</item>
+        <item>おいだ　間</item>
+        <item>～や～[など]</item>
+        <item>いちばん～</item>
+        <item>-だんめ</item>
+        <item>[どうも]すみません</item>
+        <item>チりン-ス</item>
+        <item>あく</item>
+        <item>スパイス・コ-ナ-</item>
+    </string-array>
+
+    <string-array name="Cap0R">
+        <item>Yo</item>
+        <item>Nosotros</item>
+        <item>Ud.</item>
+        <item>Aquella persona,èl,ella</item>
+        <item>Aquella persona,èl,ella</item>
+        <item>Señoras y señores, todos Uds.</item>
+        <item>Sr., Sra., Srta.</item>
+        <item>Sufijo, frecuentemente en niños</item>
+        <item>Sufijo, frecuentemente en niños varones</item>
+        <item>Sufijo para nacionalidad de una persona</item>
+        <item>Maestro, profesor, instructor</item>
+        <item>Maestro, instructor (a si mismo)</item>
+        <item>Estudiante</item>
+        <item>Empleado de empresa</item>
+        <item>Empleado de empresa(ICM のきゃいん</item>
+        <item>Funcionario de banco</item>
+        <item>Medico</item>
+        <item>Investigador, estudioso</item>
+        <item>Ingeniero</item>
+        <item>Universidad</item>
+        <item>Hospital</item>
+        <item>Electricidad, luz(electrica)</item>
+        <item>Quien(informal)</item>
+        <item>Quien(formal)</item>
+        <item> - Años de edad</item>
+        <item>Cuantos años</item>
+        <item>Cuantos años (formal)</item>
+        <item>Si</item>
+        <item>No</item>
+        <item>Disculpe, pero (Para preguntas personales</item>
+        <item>¿Cual es su nombre?</item>
+        <item>Mucho Gusto.</item>
+        <item>Encantado/a./Mucho Gusto.</item>
+        <item>Le presento al Sr./Sra./Srta　～</item>
+        <item>Soy de ～./Vengo de ～.</item>
+        <item>EE.UU.</item>
+        <item>Reino Unido</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Corea del Sur</item>
+        <item>Tailandia</item>
+        <item>China</item>
+        <item>Alemania</item>
+        <item>Japon</item>
+        <item>Francia</item>
+        <item>Brasil</item>
+        <item>éste, ésta, esto</item>
+        <item>ése, ésa, eso</item>
+        <item>aquél, aquélla, aquello</item>
+        <item>este ～, esta ～</item>
+        <item>ese ～, esa ～</item>
+        <item>aquel ～, aquella ～</item>
+        <item>libro</item>
+        <item>diccionario</item>
+        <item>revista</item>
+        <item>periódico</item>
+        <item>cuaderno</item>
+        <item>agenda</item>
+        <item>tarjeta de negocio</item>
+        <item>tarjeta</item>
+        <item>tarjeta de teléfono</item>
+        <item>lápiz</item>
+        <item>boligrafo</item>
+        <item>portaminas</item>
+        <item>llave, clave</item>
+        <item>reloj</item>
+        <item>paraguas</item>
+        <item>valija</item>
+        <item>cinta [cassette]</item>
+        <item>grabadora</item>
+        <item>televisor</item>
+        <item>radio</item>
+        <item>cámara</item>
+        <item>computadora</item>
+        <item>automóvil</item>
+        <item>escritorio</item>
+        <item>silla</item>
+        <item>chocolate</item>
+        <item>café</item>
+        <item>el idioma inglés</item>
+        <item>el idioma japonés</item>
+        <item>idioma ～</item>
+        <item>qué</item>
+        <item>así</item>
+        <item>no, no es así</item>
+        <item>¿ah sí?Ya</item>
+        <item>esto...</item>
+        <item>Es un obsequio modesto</item>
+        <item>Por favor./Aqui tiene</item>
+        <item>Gracias</item>
+        <item>[Muchas] gracias</item>
+        <item>le agradezco de antemano su gentil apoyo</item>
+        <item>Yo tambien estoy encantado/a de conocerle</item>
+        <item>aquí,acá, este lugar</item>
+        <item>ahí, ese lugar</item>
+        <item>aquel lugar</item>
+        <item>dónde, qué lugar</item>
+        <item>por aquí, este lugar</item>
+        <item>por ahí, ese lugar</item>
+        <item>por alli, aquel lugar</item>
+        <item>por dónde, dónde</item>
+        <item>aula</item>
+        <item>comedor</item>
+        <item>oficina</item>
+        <item>sala de reuniones</item>
+        <item>recepción</item>
+        <item>lóbi</item>
+        <item>habitacion</item>
+        <item>baño</item>
+        <item>escaeras</item>
+        <item>ascensor</item>
+        <item>escalera mecánica</item>
+        <item>[su] país</item>
+        <item>empresa, firma</item>
+        <item>casa</item>
+        <item>teléfono</item>
+        <item>zapatos</item>
+        <item>corbata</item>
+        <item>vino</item>
+        <item>tabaco</item>
+        <item>sección</item>
+        <item>sótano</item>
+        <item>- piso,planta</item>
+        <item>qué piso</item>
+        <item>- yen</item>
+        <item>cuánto(dinero)</item>
+        <item>cien</item>
+        <item>mil</item>
+        <item>diez mil</item>
+        <item>disculpe</item>
+        <item>forma cortés de です</item>
+        <item>por favor muestreme</item>
+        <item>bueno, entonces</item>
+        <item>deme [], por favor</item>
+        <item>una estación de Osaka</item>
+        <item>Italia</item>
+        <item>Suiza</item>
+        <item>Levantarse</item>
+        <item>Acostarse</item>
+        <item>Trabajar</item>
+        <item>Descansar</item>
+        <item>Estudiar</item>
+        <item>Terminar</item>
+        <item>Grandes almacenes</item>
+        <item>Banco</item>
+        <item>Oficina de correos</item>
+        <item>Biblioteca</item>
+        <item>Museo de arte</item>
+        <item>Ahora</item>
+        <item>Las ～ horas</item>
+        <item>～ Minutos</item>
+        <item>Y media</item>
+        <item>¿Qué hora?</item>
+        <item>¿Qué minuto?</item>
+        <item>De la mañana</item>
+        <item>De la tarde</item>
+        <item>La mañana</item>
+        <item>Dia, mediodia</item>
+        <item>Noche</item>
+        <item>Anteayer</item>
+        <item>Ayer</item>
+        <item>Hoy</item>
+        <item>Mañana</item>
+        <item>Pasado mañana</item>
+        <item>Esta mañana</item>
+        <item>Esta noche</item>
+        <item>Descanso, día libre</item>
+        <item>Descanso de mediodia</item>
+        <item>Todas las mañanas</item>
+        <item>Todas las noches</item>
+        <item>Todos los días</item>
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miercoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sabado</item>
+        <item>Domingo</item>
+        <item>qué día de la semana</item>
+        <item>Número</item>
+        <item>Qué número</item>
+        <item>Desde ～</item>
+        <item>Hasta ～</item>
+        <item>Y (para conectar sust)</item>
+        <item>Su lugar</item>
+        <item>¡Le esta costando mucho!</item>
+        <item>Esto..., Bueno...</item>
+        <item>Guapo(Adj. de apariencia de varones</item>
+        <item>Hermoso, limpio</item>
+        <item>Tranquilo (relativo a lo acustico)</item>
+        <item>Concurrido, animado</item>
+        <item>Famoso, célebre</item>
+        <item>Amable, generoso</item>
+        <item>Sano, con ánimo</item>
+        <item>Estar libre</item>
+        <item>Conveniente</item>
+        <item>Bonito, fino</item>
+        <item>Grande</item>
+        <item>Pequeño</item>
+        <item>Nuevo</item>
+        <item>Viejo, antiguo(no se emplea en personas)</item>
+        <item>Bueno</item>
+        <item>Malo</item>
+        <item>Caluroso, caliente</item>
+        <item>Frio(Clima o temperatura)</item>
+        <item>Frío (relativo a la sensación de toque)</item>
+        <item>Difícil</item>
+        <item>Fácil</item>
+        <item>Caro, alto</item>
+        <item>Barato</item>
+        <item>Bajo (altura/estatura)</item>
+        <item>Interesante</item>
+        <item>Delicioso, sabroso, rico</item>
+        <item>Atareado</item>
+        <item>Divertido, placentero</item>
+        <item>Blanco</item>
+        <item>Negro</item>
+        <item>Rojo</item>
+        <item>Azul</item>
+        <item>Árbol o flor de cerezo</item>
+        <item>Montaña, monte</item>
+        <item>Poblacion (Ciudades no muy grandes)</item>
+        <item>Comida, alimentos</item>
+        <item>Vehiculo, auto, coche</item>
+        <item>Lugar</item>
+        <item>Residencia (de escuelas y empresas)</item>
+        <item>Estudio</item>
+        <item>Vida diaria</item>
+        <item>Trabajo, profesión</item>
+        <item>Cómo</item>
+        <item>Què clase de ～</item>
+        <item>Cuál</item>
+        <item>Muy, mucho(adv.)</item>
+        <item>No tan, no muy(se emplea con formas negativas)</item>
+        <item>Y (Se emplea para conectar oraciones)</item>
+        <item>-,pero-</item>
+        <item>¿Cómo esta Ud.?</item>
+        <item>Bueno...(Al estar pensando en qué contestar)</item>
+        <item>¿Se ha acostumbrado a la vida en Japón?</item>
+        <item>¿Le apetece otra caza (copa, vaso) de[～]?</item>
+        <item>No, gracias.</item>
+        <item>ya es ～[¿verdad?]</item>
+        <item>Es hora de marcharnos.</item>
+        <item>Vuelva a visitarnos. (para despedir invitados)</item>
+        <item>Monte Fuji</item>
+        <item>Lago Biwa</item>
+        <item>Shangai</item>
+        <item>"Los siete Samurai"(Pelicula)</item>
+        <item>Templo Budista Kinkakuji</item>
+        <item> Entender, comprender</item>
+        <item> Hay</item>
+        <item> Gustar</item>
+        <item> No gustar</item>
+        <item> Ser bueno, ser hábil</item>
+        <item> No ser bueno, no ser hábil</item>
+        <item> Plato (relativo a la comida)</item>
+        <item> Bebida</item>
+        <item> Deportes（～をします:Practicar）</item>
+        <item> Béisbol（～をします:jugar al béisbol）</item>
+        <item> Baile(（～をします:bailar）</item>
+        <item> Música</item>
+        <item> Canción</item>
+        <item> Música clásica</item>
+        <item> Jazz</item>
+        <item> Concierto</item>
+        <item> Karaoke</item>
+        <item> Kabuki (Teatro musical tradicional de Japón)</item>
+        <item> Pintura, dibujo</item>
+        <item> Letra</item>
+        <item> Letras chinas</item>
+        <item> Escritura de hiragana</item>
+        <item> Escritura de katakana</item>
+        <item> Alfabeto romano</item>
+        <item> Cambio (dinero en monedas de importes bajos)</item>
+        <item> (boleto de) entrada (conciertos,cine,etc)</item>
+        <item> Tiempo</item>
+        <item> Algo que hacer</item>
+        <item> Promesa, cita, compromiso </item>
+        <item> (su/tu) esposo</item>
+        <item> (mi) marido</item>
+        <item> (su/tu) señora</item>
+        <item> (mi) esposa</item>
+        <item> niño,(mi) hijo/a</item>
+        <item> bien,mucho</item>
+        <item> más o menos, aproximadamente</item>
+        <item> muchos, mucho</item>
+        <item> un poco, unos pocos</item>
+        <item> nada ～(se emplea enexpresiones negativas)</item>
+        <item> Temprano, rápido</item>
+        <item> porque ～ </item>
+        <item> por qué</item>
+        <item> Es una lástima./¡Qué pena!</item>
+        <item> Lo siento./perdóname.</item>
+        <item> haló.hola,bueno (al hablar por teléfono)</item>
+        <item> ah(indica que se dio cuenta quién está llamando)</item>
+        <item> ¿Nos acompaña?</item>
+        <item> [～]Es algo difícil. (euferismo utilizado para rehusar una invitacion)</item>
+        <item> ¿Así que no puede (venir, acompañarnos, etc.)?</item>
+        <item> Por favor vuelva a invitarme la próxima vez.</item>
+        <item> Estar. haber (relativo a la existencia de personas y animales</item>
+        <item> Estar, haber (relativo a la existencia de plantas, objetos y materiales)</item>
+        <item> Diversos/as (adj.)</item>
+        <item> Hombre</item>
+        <item> Mujer</item>
+        <item> Niño</item>
+        <item> Niña</item>
+        <item> Perro</item>
+        <item> gato</item>
+        <item> Árbol, madera</item>
+        <item> Cosa, objeto</item>
+        <item> Película de fotografia</item>
+        <item> pila, batería</item>
+        <item> Cajas</item>
+        <item> Interruptor</item>
+        <item> Refrigeradora, frigorifico, heladera</item>
+        <item> Mesa</item>
+        <item> Cama</item>
+        <item> Estante</item>
+        <item> Puerta</item>
+        <item> Ventana</item>
+        <item> Buzón</item>
+        <item> Edificio</item>
+        <item> Parque</item>
+        <item> Cafeteria</item>
+        <item> Librería</item>
+        <item> Tienda de ～, negocio de ～</item>
+        <item> Lugar donde se toman taxis,trenes,etc</item>
+        <item> Prefectura (Equivale a provincias, departamentos, etc.)</item>
+        <item> Arriba</item>
+        <item> Abajo</item>
+        <item> Adelante</item>
+        <item> Atrás</item>
+        <item> Derecha</item>
+        <item> Izquierda</item>
+        <item> Adentro</item>
+        <item> Afuera</item>
+        <item> Al lado</item>
+        <item> Cerca</item>
+        <item> Entre</item>
+        <item> ～,～, y otros</item>
+        <item> El/la más (superlativo)</item>
+        <item> el -er estante (だん　es contador de estantes.)</item>
+        <item> Gracias.</item>
+        <item> Salsa de chile/ají</item>
+        <item> Al fondo</item>
+        <item> Sección de especias</item>
+    </string-array>
+</resources>
+
+

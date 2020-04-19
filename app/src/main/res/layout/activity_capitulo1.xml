@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Vocabulario.Capitulo1">
+
+    <TextView
+        android:id="@+id/titulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Capitulo 1"
+        />
+    <CheckBox
+        android:id="@+id/cbc1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Traduccion"
+        android:onClick="onCheckBowClicked"
+        android:layout_below="@+id/titulo"/>
+
+        <ListView
+            android:id="@+id/lv01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/cbc1">
+            </ListView>
+
+
+
+</RelativeLayout>
+
+    <!--
+     HACER RADIOBUTTON!
+     <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:id="@+id/rg"
+            android:layout_below="@+id/titulo">
+
+             <RadioButton
+                 android:id="@+id/rb1c1"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:text="Japones"
+                 android:onClick="onRadioButtonClicked"/>
+
+             <RadioButton
+                  android:id="@+id/rb2c1"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="Romanji"
+                  android:onClick="onRadioButtonClicked"/>
+
+        </RadioGroup>
+
+         para dividirlo en 2 y ponerle el porcentaje que quiera
+            <LinearLayout
+        android:layout_height="fill_parent"
+        android:layout_width="fill_parent"
+        android:weightSum="3"
+        android:layout_below="@+id/cbc4">
+
+        <LinearLayout
+            android:layout_height="fill_parent"
+            android:layout_width="fill_parent"
+            android:layout_weight="2">
+            <ListView
+                android:id="@+id/lv04"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+
+                >
+            </ListView>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_height="fill_parent"
+            android:layout_width="fill_parent"
+            android:layout_weight="1">
+
+            <ListView
+                android:id="@+id/lvc4r"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:paddingLeft="6dip"
+                android:minHeight="?android:attr/listPreferredItemHeight">
+            </ListView>
+        </LinearLayout>
+
+        </LinearLayout>
+                -->

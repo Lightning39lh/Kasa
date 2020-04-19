@@ -1,0 +1,81 @@
+<androidx.appcompat.widget.LinearLayoutCompat android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:context=".Games">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="Capitulo1"
+        android:layout_gravity="center"
+        android:id="@+id/btGame1"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="Capitulo2"
+        android:layout_gravity="center"
+        android:id="@+id/btGame2"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="Capitulo3"
+        android:layout_gravity="center"
+        android:id="@+id/btGame3"
+        />
+
+            <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="Capitulo4"
+        android:layout_gravity="center"
+        android:id="@+id/btGame4"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="Capitulo8"
+        android:layout_gravity="center"
+        android:id="@+id/btGame8"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="Capitulo9"
+        android:layout_gravity="center"
+        android:id="@+id/btGame9"
+
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="Capitulo10"
+        android:layout_gravity="center"
+        android:id="@+id/btGame10"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="Todos"
+        android:layout_gravity="center"
+        android:id="@+id/btGame0"
+        />
+
+
+
+
+
+</LinearLayout>
+    </ScrollView>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

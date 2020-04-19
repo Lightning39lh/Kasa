@@ -1,0 +1,80 @@
+<RelativeLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:context=".Vocabulario.Vocabulario">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="Capitulo 1"
+        android:layout_gravity="center"
+        android:id="@+id/btCap1"
+
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="Capitulo 2"
+        android:layout_gravity="center"
+        android:id="@+id/btCap2"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="Capitulo 3"
+        android:layout_gravity="center"
+        android:id="@+id/btCap3"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="Capitulo 4"
+        android:layout_gravity="center"
+        android:id="@+id/btCap4"
+
+
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="Capitulo 8"
+        android:layout_gravity="center"
+        android:id="@+id/btCap8"
+
+
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="Capitulo 9"
+        android:layout_gravity="center"
+        android:id="@+id/btCap9"
+
+
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="Capitulo 10"
+        android:layout_gravity="center"
+        android:id="@+id/btCap10"
+
+
+        />
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</RelativeLayout>
