@@ -13,7 +13,7 @@ import com.kasa.R;
 public class Vocabulario extends AppCompatActivity {
 
     public static int capitulo;
-    Button btCap1,btCap3,btCap4,btCap8,btCap2,btCap9,btCap10;
+    Button btCap1,btCap3,btCap4,btCap8,btCap2,btCap9,btCap10,btCap11;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,6 +26,7 @@ public class Vocabulario extends AppCompatActivity {
         btCap8 =(Button)findViewById(R.id.btCap8);
         btCap9 =(Button)findViewById(R.id.btCap9);
         btCap10 =(Button)findViewById(R.id.btCap10);
+        btCap11 =(Button)findViewById(R.id.btCap11);
         btCap1.setOnClickListener(new View.OnClickListener()
         {
             @Override
@@ -85,6 +86,15 @@ public class Vocabulario extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 capitulo = 10;
+                Intent toVocabulario = new Intent(Vocabulario.this, Capitulo1.class);
+                startActivity(toVocabulario);
+            }
+        });
+        btCap11.setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v) {
+                capitulo = 11;
                 Intent toVocabulario = new Intent(Vocabulario.this, Capitulo1.class);
                 startActivity(toVocabulario);
             }

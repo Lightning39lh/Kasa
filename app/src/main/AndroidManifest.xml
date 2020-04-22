@@ -5,23 +5,32 @@
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="@string/かさ"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme.NoActionBar">
-        <activity android:name=".Particulas.ParticulasIn"></activity>
-        <activity android:name=".Busqueda.Capitulo1B" />
-        <activity android:name=".Vocabulario.Vocabulario" />
-        <activity android:name=".Vocabulario.Capitulo1" />
-        <activity android:name=".Particulas.Particulas" />
+        android:theme="@style/AppTheme">
+        android:theme="@style/AppTheme.NoActionBar"
+
+        <activity android:name=".Traductor"
+            android:label="Traductor"></activity>
+        <activity android:name=".Particulas.ParticulasIn"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".Busqueda.Capitulo1B"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".Vocabulario.Vocabulario"
+            android:label="Vocabulario"/>
+        <activity android:name=".Vocabulario.Capitulo1"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".Particulas.Particulas"
+            android:label="Particulas"/>
         <activity
             android:name=".Learn"
-            android:label="@string/title_activity_learn"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:label="Aprender"
+            />
         <activity
             android:name=".Games"
-            android:label="@string/title_activity_games"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:label="Juegos"
+             />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -7,27 +7,30 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.kasa.Learn;
+
 import com.kasa.R;
-import com.kasa.Vocabulario.ParticulasIn;
+
 
 public class Particulas extends AppCompatActivity {
 
     public static int particula;
-    Button btMo,btNo;
-    //,btCap8,btCap2,btCap9,btCap10;
+    Button btMo,btNo,btNi,btHe,btDe,btTo,btWo;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_vocabulario);
+        setContentView(R.layout.activity_particulas);
         btMo =(Button)findViewById(R.id.btMo);
         btNo =(Button)findViewById(R.id.btNo);
-        /*btCap3 =(Button)findViewById(R.id.btCap3);
-        btCap4 =(Button)findViewById(R.id.btCap4);
-        btCap8 =(Button)findViewById(R.id.btCap8);
-        btCap9 =(Button)findViewById(R.id.btCap9);
-        btCap10 =(Button)findViewById(R.id.btCap10);*/
+        btNi =(Button)findViewById(R.id.btNi);
+        btTo =(Button)findViewById(R.id.btTo);
+        btHe =(Button)findViewById(R.id.btHe);
+        btDe =(Button)findViewById(R.id.btDe);
+        btWo =(Button)findViewById(R.id.btWo);
+
+
+
         btMo.setOnClickListener(new View.OnClickListener()
         {
             @Override
@@ -46,50 +49,53 @@ public class Particulas extends AppCompatActivity {
                 startActivity(toParticula);
             }
         });
-       /* btCap3.setOnClickListener(new View.OnClickListener()
+        btNi.setOnClickListener(new View.OnClickListener()
         {
             @Override
             public void onClick(View v) {
-                capitulo = 3;
-                Intent toVocabulario = new Intent(Vocabulario.this, Capitulo1.class);
-                startActivity(toVocabulario);
+                particula = 3;
+                Intent toParticula = new Intent(Particulas.this, ParticulasIn.class);
+                startActivity(toParticula);
             }
         });
-        btCap4.setOnClickListener(new View.OnClickListener()
+        btTo.setOnClickListener(new View.OnClickListener()
         {
             @Override
             public void onClick(View v) {
-                capitulo = 4;
-                Intent toVocabulario = new Intent(Vocabulario.this, Capitulo1.class);
-                startActivity(toVocabulario);
+                particula = 4;
+                Intent toParticula = new Intent(Particulas.this, ParticulasIn.class);
+                startActivity(toParticula);
             }
         });
-        btCap8.setOnClickListener(new View.OnClickListener()
+        btHe.setOnClickListener(new View.OnClickListener()
         {
             @Override
             public void onClick(View v) {
-                capitulo = 8;
-                Intent toVocabulario = new Intent(Vocabulario.this, Capitulo1.class);
-                startActivity(toVocabulario);
+                particula = 5;
+                Intent toParticula = new Intent(Particulas.this, ParticulasIn.class);
+                startActivity(toParticula);
             }
         });
-        btCap9.setOnClickListener(new View.OnClickListener()
+        btDe.setOnClickListener(new View.OnClickListener()
         {
             @Override
             public void onClick(View v) {
-                capitulo = 9;
-                Intent toVocabulario = new Intent(Vocabulario.this, Capitulo1.class);
-                startActivity(toVocabulario);
+                particula = 6;
+                Intent toParticula = new Intent(Particulas.this, ParticulasIn.class);
+                startActivity(toParticula);
             }
         });
-        btCap10.setOnClickListener(new View.OnClickListener()
+        btWo.setOnClickListener(new View.OnClickListener()
         {
             @Override
             public void onClick(View v) {
-                capitulo = 10;
-                Intent toVocabulario = new Intent(Vocabulario.this, Capitulo1.class);
-                startActivity(toVocabulario);
+                particula = 7;
+                Intent toParticula = new Intent(Particulas.this, ParticulasIn.class);
+                startActivity(toParticula);
             }
-        });*/
+        });
+
+
+
     }
 }

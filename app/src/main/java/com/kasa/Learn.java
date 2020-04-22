@@ -15,6 +15,7 @@ public class Learn extends AppCompatActivity
 {
     Button btVocabulario;
     Button btParticulas;
+    Button btTraductor;
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
@@ -22,6 +23,7 @@ public class Learn extends AppCompatActivity
         setContentView(R.layout.activity_learn);
         btVocabulario=(Button)findViewById(R.id.btVocabulario);
         btParticulas=(Button)findViewById(R.id.btParticulas);
+        btTraductor=(Button)findViewById(R.id.btTraductor);
         btVocabulario.setOnClickListener(new View.OnClickListener()
         {
             @Override
@@ -35,6 +37,14 @@ public class Learn extends AppCompatActivity
             @Override
             public void onClick(View v) {
                 Intent toParticulas = new Intent (Learn.this, Particulas.class);
+                startActivity(toParticulas);
+            }
+        });
+        btTraductor.setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v) {
+                Intent toParticulas = new Intent (Learn.this, Traductor.class);
                 startActivity(toParticulas);
             }
         });

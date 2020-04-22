@@ -1,21 +1,27 @@
 package com.kasa;
 
 import android.content.Context;
+import android.text.Html;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
+import com.kasa.Entidad;
+import com.kasa.R;
+
 import java.util.ArrayList;
 
-public class Adaptador extends BaseAdapter {
+public class Adaptadorp extends BaseAdapter {
     private Context context;
-    private ArrayList<Entidad> listItems;
+    private ArrayList<Entidadp> listItems;
 
-    public Adaptador(Context context, ArrayList<Entidad> listItems) {
+
+    public Adaptadorp(Context context, ArrayList<Entidadp> listItems) {
         this.context = context;
         this.listItems = listItems;
+
     }
 
     @Override
@@ -35,14 +41,17 @@ public class Adaptador extends BaseAdapter {
 
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
-        Entidad Item = (Entidad) getItem(position);
+        Entidadp Itemp = (Entidadp) getItem(position);
 
         //el convertview ya hace por defecto de forma ciclica con el getcount
-        convertView = LayoutInflater.from(context).inflate(R.layout.item, null);
-        TextView tvJapones = convertView.findViewById(R.id.tvi1);
-        TextView tvRomanji = convertView.findViewById(R.id.tvi2);
-        tvJapones.setText(Item.getJapones());
-        tvRomanji.setText(Item.getRomanji());
+        convertView = LayoutInflater.from(context).inflate(R.layout.itemp, null);
+        TextView tvExplicacion = convertView.findViewById(R.id.tvip1);
+        TextView tvJapones = convertView.findViewById(R.id.tvip2);
+        TextView tvRomanji = convertView.findViewById(R.id.tvip3);
+
+        tvExplicacion.setText(Html.fromHtml(Itemp.getExplicacion()));
+        tvJapones.setText(Itemp.getJapones());
+        tvRomanji.setText(Itemp.getRomanji());
         return convertView;
     }
 }

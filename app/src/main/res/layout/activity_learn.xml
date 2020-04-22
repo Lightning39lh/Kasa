@@ -21,4 +21,13 @@
         android:id="@+id/btParticulas"
         />
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="traductor (por palabras)"
+        android:layout_gravity="center"
+        android:id="@+id/btTraductor"
+        />
+
+
 </androidx.appcompat.widget.LinearLayoutCompat>

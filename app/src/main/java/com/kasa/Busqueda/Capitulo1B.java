@@ -110,6 +110,14 @@ public class Capitulo1B extends AppCompatActivity {
                 puntosMax = sharpref.getInt("maxNumero",0);
                 break;
             }
+            case 11:
+            {
+                SharedPreferences sharpref = context.getSharedPreferences("MaxCap11", Context.MODE_PRIVATE);
+                myArrayListJ = Arrays.asList(getResources().getStringArray(R.array.Cap11));
+                myArrayListR = Arrays.asList(getResources().getStringArray(R.array.Cap11R));
+                puntosMax = sharpref.getInt("maxNumero",0);
+                break;
+            }
             case 0:
             {
                 SharedPreferences sharpref = context.getSharedPreferences("MaxCap0", Context.MODE_PRIVATE);
@@ -183,6 +191,13 @@ public class Capitulo1B extends AppCompatActivity {
                 break;
                 case 10: {
                     SharedPreferences sharpref = context.getSharedPreferences("MaxCap10", Context.MODE_PRIVATE);
+                    SharedPreferences.Editor editor = sharpref.edit();
+                    editor.putInt("maxNumero", puntos);
+                    editor.apply();
+                }
+                break;
+                case 11: {
+                    SharedPreferences sharpref = context.getSharedPreferences("MaxCap11", Context.MODE_PRIVATE);
                     SharedPreferences.Editor editor = sharpref.edit();
                     editor.putInt("maxNumero", puntos);
                     editor.apply();

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Traductor">
+
+    <TextView
+        android:id="@+id/tvtraductor"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="ingrese palabra aqui (japonesas en hiragana/katakana, españolas en romanji)"
+        />
+
+    <EditText
+        android:id="@+id/etTraducir"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_below="@+id/tvtraductor"
+        android:inputType="text" />
+
+    <Button
+        android:id="@+id/btTraductor"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/tvtraductor"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/lupa">
+
+    </Button>
+    <TextView
+        android:id="@+id/tvtraductor2"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text=""
+        android:layout_below="@+id/etTraducir"
+        />
+
+
+
+</RelativeLayout>

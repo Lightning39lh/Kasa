@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="mo">
-        <item>Cuando el topico principal es el mismo que el anterior se usa el も　en vez del は</item>
+        <item>Cuando el topico principal es el mismo que el anterior se usa el も 　en vez del は</item>
+        <item>Cuando se quiere negar todo lo que implique el interrogativo ( se usa con forma negativa)</item>
     </string-array>
     <string-array name="moj">
         <item>ミラーさんもがくせいです。</item>
+        <item>だれもいません。</item>
     </string-array>
     <string-array name="mor">
         <item>Miller TAMBIEN es estudiante</item>
+        <item>No hay nadie</item>
     </string-array>
-
 
 
 
@@ -17,19 +19,98 @@
         <item>Cuando S1 modifica a S2</item>
         <item>S1 aclara sobre que es S2</item>
         <item>S1 aclara a quien pertenece S2</item>
+        <item>Para preguntar de donde es algo se emplea el どこ</item>
+        <item>S1の indica el pais/lugar donde se hizo S2</item>
+        <item>S1の indica el donde esta hecho S2</item>
     </string-array>
     <string-array name="noj">
         <item>ミラーさんはにほんごのがくせいです。</item>
-        <item>これはコンピューターのほんです。</item>
-        <item>これはわたしのほんです。</item>
+        <item>これはかさのほんです。</item>
+        <item>これはわたしのかさです。</item>
+        <item>これはどこのかさですか。</item>
+        <item>にほんごのかさです。</item>
+        <item>IMCのかさです。</item>
     </string-array>
     <string-array name="nor">
         <item>Miller es estudiante DE japones</item>
         <item>Este es un libro DE/SOBRE computadoras</item>
         <item>Este es mi libro</item>
+        <item>¿De donde es este paraguas?</item>
+        <item>Es un paraguas DE Japon</item>
+        <item>Es un paraguas FABRICADO EN IMC</item>
+    </string-array>
+    <string-array name="ni">
+        <item>S(tiempo)に V indica cuando se realiza una acción</item>
+        <item>Para mencionar a quien se le regala/presta/enseña</item>
+        <item>Para mencionar al que regala/presta/enseña</item>
+    </string-array>
+    <string-array name="nij">
+        <item>８じはんにおきます。</item>
+        <item>デニスさんにかさをあげました。</item>
+        <item>フロレンシアさんにほんをならいます。</item>
+    </string-array>
+    <string-array name="nir">
+        <item>Me levanto A LAS 8 y media</item>
+        <item>Le regalo un paraguas a Denis</item>
+        <item>Florencia me prestó un libro</item>
     </string-array>
 
+    <string-array name="to">
+        <item>Conecta 2 sustantivos de manera correlativa S1とS2</item>
+        <item>Para indicar la persona/animal que comparta la misma acción</item>
+    </string-array>
 
+    <string-array name="toj">
+        <item>ぎんこうのやすみはどようびとにちようびです。</item>
+        <item>かぞくとにほんへきました。</item>
+    </string-array>
+
+    <string-array name="tor">
+        <item>Los bancos están cerrados los sábados Y domingos</item>
+        <item>Vine a Japón CON mi familia</item>
+    </string-array>
+
+    <string-array name="he">
+        <item>S(lugar)へいきます/きます/かえります Para indicar a donde se dirige</item>
+    </string-array>
+    <string-array name="hej">
+        <item>うちへかえります。</item>
+    </string-array>
+    <string-array name="her">
+        <item>Me voy A casa</item>
+    </string-array>
+
+    <string-array name="de">
+        <item>con verbos que significan desplazamiento expresa el medio de transporte</item>
+        <item>S(lugar)で V indica donde se llevo a cabo</item>
+        <item>Indica medios y métodos</item>
+        <item>para preguntar como se dice una palabra u oración en idiomas extranjeros</item>
+    </string-array>
+    <string-array name="dej">
+        <item>タクシーできました</item>
+        <item>えきでかさをかいます。</item>
+        <item>はしでたべます。</item>
+        <item>「かさ」はえいごでなんですか</item>
+    </string-array>
+    <string-array name="der">
+        <item>Vine EN taxi</item>
+        <item>Compro el paraguas EN la estación</item>
+        <item>Yo como CON palillos</item>
+        <item>¿Cómo se dice "かさ" en inglés?</item>
+    </string-array>
+
+    <string-array name="wo">
+        <item>Para indicar el objeto directo de verbos transitivos</item>
+
+    </string-array>
+    <string-array name="woj">
+        <item>シュースをのみます</item>
+
+    </string-array>
+    <string-array name="wor">
+        <item>Bebo jugo</item>
+
+    </string-array>
 
 
 

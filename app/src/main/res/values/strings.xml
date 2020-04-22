@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">Kasa</string>
+    <string name="かさ">Kasa</string>
     <string name="title_activity_games">Games</string>
     <string name="title_activity_learn">Learn</string>
+    <string name="particula_mo">Particula も</string>
+    <string name="particula_no">Particula の</string>
 </resources>

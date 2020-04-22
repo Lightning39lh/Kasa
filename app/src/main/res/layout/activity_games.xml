@@ -66,6 +66,13 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="80dp"
+        android:text="Capitulo11"
+        android:layout_gravity="center"
+        android:id="@+id/btGame11"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
         android:text="Todos"
         android:layout_gravity="center"
         android:id="@+id/btGame0"

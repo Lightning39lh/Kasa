@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    tools:context=".Vocabulario.Vocabulario">
+    tools:context=".Particulas.Particulas">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -15,18 +15,61 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="80dp"
-                android:text="Particula も"
+                android:text="@string/particula_mo"
                 android:layout_gravity="center"
                 android:id="@+id/btMo"
 
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_gravity="center"
+                android:text="particula の"
+
+                android:id="@+id/btNo"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_gravity="center"
+                android:text="particula に"
+
+                android:id="@+id/btNi"
+               />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_gravity="center"
+                android:text="particula と"
+
+                android:id="@+id/btTo"
                 />
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="80dp"
-                android:text="Particula の"
                 android:layout_gravity="center"
-                android:id="@+id/btNo"
+                android:text="particula へ"
+
+                android:id="@+id/btHe"
+                />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_gravity="center"
+                android:text="particula で"
+
+                android:id="@+id/btDe"
+                />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_gravity="center"
+                android:text="particula を"
+
+                android:id="@+id/btWo"
                 />
 
         </LinearLayout>

@@ -41,8 +41,6 @@
         android:text="Capitulo 4"
         android:layout_gravity="center"
         android:id="@+id/btCap4"
-
-
         />
 
     <Button
@@ -51,8 +49,6 @@
         android:text="Capitulo 8"
         android:layout_gravity="center"
         android:id="@+id/btCap8"
-
-
         />
     <Button
         android:layout_width="match_parent"
@@ -60,8 +56,6 @@
         android:text="Capitulo 9"
         android:layout_gravity="center"
         android:id="@+id/btCap9"
-
-
         />
     <Button
         android:layout_width="match_parent"
@@ -69,8 +63,13 @@
         android:text="Capitulo 10"
         android:layout_gravity="center"
         android:id="@+id/btCap10"
-
-
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="Capitulo 11"
+        android:layout_gravity="center"
+        android:id="@+id/btCap11"
         />
         </LinearLayout>
     </ScrollView>

@@ -742,6 +742,135 @@
        <item> Sección de especias</item>
 
     </string-array>
+    <string-array name="Cap11">
+        <item>[こどもが～]います</item>
+        <item>[にほんに～]います</item>
+        <item>かかります</item>
+        <item>[かいしゃを～]やすみます</item>
+        <item>ひとつ</item>
+        <item>ふたつ</item>
+        <item>みっつ</item>
+        <item>よっつ</item>
+        <item>いっつ</item>
+        <item>むっつ</item>
+        <item>ななつ</item>
+        <item>やっつ</item>
+        <item>ここのつ</item>
+        <item>とお</item>
+        <item>いくつ</item>
+        <item>ひとり</item>
+        <item>ふたり</item>
+        <item>ーにん</item>
+        <item>ーだい</item>
+        <item>ーまい</item>
+        <item>ーかい</item>
+        <item>りんご</item>
+        <item>みかん</item>
+        <item>サンドイッチ</item>
+        <item>カレー[ライス]</item>
+        <item>アイスクリーム</item>
+        <item>きって</item>
+        <item>はがき</item>
+        <item>ふうとつ</item>
+        <item>そくたつ</item>
+        <item>かきとめ</item>
+        <item>エアメール</item>
+        <item>ふなびん</item>
+        <item>りょうしん</item>
+        <item>きょｙだい</item>
+        <item>あに</item>
+        <item>おにいさん</item>
+        <item>あね</item>
+        <item>おねえさん</item>
+        <item>おとうと</item>
+        <item>おとうとさん</item>
+        <item>いもうと</item>
+        <item>いもうとさん</item>
+        <item>がいこく</item>
+        <item>ーじかん</item>
+        <item>ーしゅうかん</item>
+        <item>ーかげつ</item>
+        <item>ーねん</item>
+        <item>～ぐらい</item>
+        <item>どのくらい</item>
+        <item>ぜんふで</item>
+        <item>みんな</item>
+        <item>～だけ</item>
+        <item>いらっしゃいませ</item>
+        <item>いい[お]てんきですね</item>
+        <item>おでかけですか</item>
+        <item>しょっと～まで。</item>
+        <item>いっていらっしゃい。</item>
+        <item>いってまいります。</item>
+        <item>それから</item>
+        <item>オーストラリア</item>
+
+
+    </string-array>
+    <string-array name="Cap11R">
+        <item>tener [hijos]</item>
+        <item>permanecer [en Japón]</item>
+        <item>tardar (tiempo), costar (dinero)</item>
+        <item>ausentarse [a la oficina]</item>
+        <item>1 (al contar objetos)</item>
+        <item>2 (al contar objetos)</item>
+        <item>3 (al contar objetos)</item>
+        <item>4 (al contar objetos)</item>
+        <item>5 (al contar objetos)</item>
+        <item>6 (al contar objetos)</item>
+        <item>7 (al contar objetos)</item>
+        <item>8 (al contar objetos)</item>
+        <item>9 (al contar objetos)</item>
+        <item>10 (al contar objetos)</item>
+        <item>cuantós/as</item>
+        <item>una persona</item>
+        <item>dos personas</item>
+        <item>ー personas</item>
+        <item>(para contar máquinas, vehículos, etc.)</item>
+        <item>(para contar cosas con poco grosor y plantas)</item>
+        <item>ー veces</item>
+        <item>manzana</item>
+        <item>naranja mandarina</item>
+        <item>sándwich</item>
+        <item>cúrri [con arroz]</item>
+        <item>helado</item>
+        <item>sello (postal), estampilla, timbre</item>
+        <item>tarjeta postal</item>
+        <item>sobres</item>
+        <item>correo urgente</item>
+        <item>correo certificado</item>
+        <item>viá aérea</item>
+        <item>viá marítima</item>
+        <item>padres</item>
+        <item>hermanos y hermanas</item>
+        <item>(mi) hermano mayor</item>
+        <item>(su/tu) hermano mayor</item>
+        <item>(mi) hermana mayor</item>
+        <item>(su/tu) hermana mayor</item>
+        <item>(mi) hermano menor</item>
+        <item>(su/tu) hermano menor</item>
+        <item>(mi) hermana menor</item>
+        <item>(su/tu) hermana menor</item>
+        <item>país extranjero</item>
+        <item>ー horas</item>
+        <item>ー semanas</item>
+        <item>ー meses</item>
+        <item>ー años</item>
+        <item>más o menos ～</item>
+        <item>cuánto tiempo</item>
+        <item>en total</item>
+        <item>todos, todo</item>
+        <item>solo ～</item>
+        <item>Bienvenido/a. (para clientes)</item>
+        <item>Hace buen tiempo ¿no? (clima)</item>
+        <item>¿Va a salir? (a un vecino saliendo)</item>
+        <item>Estoy saliendo a ～</item>
+        <item>Que le vaya bien.(lit Vaya y vuelva)</item>
+        <item>Hasta luego. (lit. Salgo y vuelvo)</item>
+        <item>Y, además</item>
+        <item>Australia</item>
+
+    </string-array>
     <string-array name="vacio">
         <item></item>
         <item></item>
@@ -1164,6 +1293,67 @@
         <item>チりン-ス</item>
         <item>あく</item>
         <item>スパイス・コ-ナ-</item>
+        <item>[こどもが～]います</item>
+        <item>[にほんに～]います</item>
+        <item>かかります</item>
+        <item>[かいしゃを～]やすみます</item>
+        <item>ひとつ</item>
+        <item>ふたつ</item>
+        <item>みっつ</item>
+        <item>よっつ</item>
+        <item>いっつ</item>
+        <item>むっつ</item>
+        <item>ななつ</item>
+        <item>やっつ</item>
+        <item>ここのつ</item>
+        <item>とお</item>
+        <item>いくつ</item>
+        <item>ひとり</item>
+        <item>ふたり</item>
+        <item>ーにん</item>
+        <item>ーだい</item>
+        <item>ーまい</item>
+        <item>ーかい</item>
+        <item>りんご</item>
+        <item>みかん</item>
+        <item>サンドイッチ</item>
+        <item>カレー[ライス]</item>
+        <item>アイスクリーム</item>
+        <item>きって</item>
+        <item>はがき</item>
+        <item>ふうとつ</item>
+        <item>そくたつ</item>
+        <item>かきとめ</item>
+        <item>エアメール</item>
+        <item>ふなびん</item>
+        <item>りょうしん</item>
+        <item>きょｙだい</item>
+        <item>あに</item>
+        <item>おにいさん</item>
+        <item>あね</item>
+        <item>おねえさん</item>
+        <item>おとうと</item>
+        <item>おとうとさん</item>
+        <item>いもうと</item>
+        <item>いもうとさん</item>
+        <item>がいこく</item>
+        <item>ーじかん</item>
+        <item>ーしゅうかん</item>
+        <item>ーかげつ</item>
+        <item>ーねん</item>
+        <item>～ぐらい</item>
+        <item>どのくらい</item>
+        <item>ぜんふで</item>
+        <item>みんな</item>
+        <item>～だけ</item>
+        <item>いらっしゃいませ</item>
+        <item>いい[お]てんきですね</item>
+        <item>おでかけですか</item>
+        <item>しょっと～まで。</item>
+        <item>いっていらっしゃい。</item>
+        <item>いってまいります。</item>
+        <item>それから</item>
+        <item>オーストラリア</item>
     </string-array>
 
     <string-array name="Cap0R">
@@ -1513,6 +1703,67 @@
         <item> Salsa de chile/ají</item>
         <item> Al fondo</item>
         <item> Sección de especias</item>
+        <item>tener [hijos]</item>
+        <item>permanecer [en Japón]</item>
+        <item>tardar (tiempo), costar (dinero)</item>
+        <item>ausentarse [a la oficina]</item>
+        <item>1 (al contar objetos)</item>
+        <item>2 (al contar objetos)</item>
+        <item>3 (al contar objetos)</item>
+        <item>4 (al contar objetos)</item>
+        <item>5 (al contar objetos)</item>
+        <item>6 (al contar objetos)</item>
+        <item>7 (al contar objetos)</item>
+        <item>8 (al contar objetos)</item>
+        <item>9 (al contar objetos)</item>
+        <item>10 (al contar objetos)</item>
+        <item>cuantós/as</item>
+        <item>una persona</item>
+        <item>dos personas</item>
+        <item>ー personas</item>
+        <item>(para contar máquinas, vehículos, etc.)</item>
+        <item>(para contar cosas con poco grosor y plantas)</item>
+        <item>ー veces</item>
+        <item>manzana</item>
+        <item>naranja mandarina</item>
+        <item>sándwich</item>
+        <item>cúrri [con arroz]</item>
+        <item>helado</item>
+        <item>sello (postal), estampilla, timbre</item>
+        <item>tarjeta postal</item>
+        <item>sobres</item>
+        <item>correo urgente</item>
+        <item>correo certificado</item>
+        <item>viá aérea</item>
+        <item>viá marítima</item>
+        <item>padres</item>
+        <item>hermanos y hermanas</item>
+        <item>(mi) hermano mayor</item>
+        <item>(su/tu) hermano mayor</item>
+        <item>(mi) hermana mayor</item>
+        <item>(su/tu) hermana mayor</item>
+        <item>(mi) hermano menor</item>
+        <item>(su/tu) hermano menor</item>
+        <item>(mi) hermana menor</item>
+        <item>(su/tu) hermana menor</item>
+        <item>país extranjero</item>
+        <item>ー horas</item>
+        <item>ー semanas</item>
+        <item>ー meses</item>
+        <item>ー años</item>
+        <item>más o menos ～</item>
+        <item>cuánto tiempo</item>
+        <item>en total</item>
+        <item>todos, todo</item>
+        <item>solo ～</item>
+        <item>Bienvenido/a. (para clientes)</item>
+        <item>Hace buen tiempo ¿no? (clima)</item>
+        <item>¿Va a salir? (a un vecino saliendo)</item>
+        <item>Estoy saliendo a ～</item>
+        <item>Que le vaya bien.(lit Vaya y vuelva)</item>
+        <item>Hasta luego. (lit. Salgo y vuelvo)</item>
+        <item>Y, además</item>
+        <item>Australia</item>
     </string-array>
 </resources>
 
