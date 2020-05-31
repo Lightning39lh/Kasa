@@ -10,6 +10,9 @@
         android:text="Aprender"
         android:layout_gravity="center"
         android:id="@+id/btLearn"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/textColor"
+        android:layout_margin="10dp"
 
         />
     <Button
@@ -18,6 +21,9 @@
         android:text="Juegos"
         android:layout_gravity="center"
         android:id="@+id/btGames"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/textColor"
+        android:layout_margin="10dp"
         />
 
 </androidx.appcompat.widget.LinearLayoutCompat>

@@ -67,6 +67,10 @@ public class Capitulo1 extends AppCompatActivity {
             titulo.setText("Capitulo 11");
             break;
         }
+            case 12: {
+                titulo.setText("Capitulo 12");
+                break;
+        }
 
 
 
@@ -156,6 +160,14 @@ public class Capitulo1 extends AppCompatActivity {
                 }
                 break;
             }
+            case 12: {
+                List<String> myArrayListJ = Arrays.asList(getResources().getStringArray(R.array.Cap12));
+                List<String> myArrayListR = Arrays.asList(getResources().getStringArray(R.array.Cap12R));
+                for (int i = 0; i < myArrayListJ.size(); i++) {
+                    listItems.add(new Entidad(myArrayListJ.get(i), myArrayListR.get(i)));
+                }
+                break;
+            }
         }
         return listItems;
 
@@ -222,6 +234,14 @@ public class Capitulo1 extends AppCompatActivity {
             }
             case 11: {
                 List<String> myArrayListJ = Arrays.asList(getResources().getStringArray(R.array.Cap11));
+                List<String> myArrayListR = Arrays.asList(getResources().getStringArray(R.array.vacio));
+                for (int i = 0; i < myArrayListJ.size(); i++) {
+                    listItems.add(new Entidad(myArrayListJ.get(i), myArrayListR.get(i)));
+                }
+                break;
+            }
+            case 12: {
+                List<String> myArrayListJ = Arrays.asList(getResources().getStringArray(R.array.Cap12));
                 List<String> myArrayListR = Arrays.asList(getResources().getStringArray(R.array.vacio));
                 for (int i = 0; i < myArrayListJ.size(); i++) {
                     listItems.add(new Entidad(myArrayListJ.get(i), myArrayListR.get(i)));

@@ -18,6 +18,9 @@
                 android:text="@string/particula_mo"
                 android:layout_gravity="center"
                 android:id="@+id/btMo"
+                android:background="@color/colorPrimary"
+                android:textColor="@color/textColor"
+                android:layout_margin="10dp"
 
                 />
             <Button
@@ -25,7 +28,9 @@
                 android:layout_height="80dp"
                 android:layout_gravity="center"
                 android:text="particula の"
-
+                android:background="@color/colorPrimary"
+                android:textColor="@color/textColor"
+                android:layout_margin="10dp"
                 android:id="@+id/btNo"
                 />
             <Button
@@ -33,7 +38,9 @@
                 android:layout_height="80dp"
                 android:layout_gravity="center"
                 android:text="particula に"
-
+                android:background="@color/colorPrimary"
+                android:textColor="@color/textColor"
+                android:layout_margin="10dp"
                 android:id="@+id/btNi"
                />
             <Button
@@ -41,7 +48,9 @@
                 android:layout_height="80dp"
                 android:layout_gravity="center"
                 android:text="particula と"
-
+                android:background="@color/colorPrimary"
+                android:textColor="@color/textColor"
+                android:layout_margin="10dp"
                 android:id="@+id/btTo"
                 />
 
@@ -50,7 +59,9 @@
                 android:layout_height="80dp"
                 android:layout_gravity="center"
                 android:text="particula へ"
-
+                android:background="@color/colorPrimary"
+                android:textColor="@color/textColor"
+                android:layout_margin="10dp"
                 android:id="@+id/btHe"
                 />
 
@@ -59,7 +70,9 @@
                 android:layout_height="80dp"
                 android:layout_gravity="center"
                 android:text="particula で"
-
+                android:background="@color/colorPrimary"
+                android:textColor="@color/textColor"
+                android:layout_margin="10dp"
                 android:id="@+id/btDe"
                 />
 
@@ -68,7 +81,9 @@
                 android:layout_height="80dp"
                 android:layout_gravity="center"
                 android:text="particula を"
-
+                android:background="@color/colorPrimary"
+                android:textColor="@color/textColor"
+                android:layout_margin="10dp"
                 android:id="@+id/btWo"
                 />
 

@@ -12,77 +12,147 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="80dp"
-        android:text="Capitulo1"
-        android:layout_gravity="center"
-        android:id="@+id/btGame1"
-        />
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="80dp"
-        android:text="Capitulo2"
-        android:layout_gravity="center"
-        android:id="@+id/btGame2"
-        />
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="80dp"
-        android:text="Capitulo3"
-        android:layout_gravity="center"
-        android:id="@+id/btGame3"
-        />
 
-            <Button
-        android:layout_width="match_parent"
-        android:layout_height="80dp"
-        android:text="Capitulo4"
-        android:layout_gravity="center"
-        android:id="@+id/btGame4"
-        />
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="80dp"
-        android:text="Capitulo8"
-        android:layout_gravity="center"
-        android:id="@+id/btGame8"
-        />
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="80dp"
-        android:text="Capitulo9"
-        android:layout_gravity="center"
-        android:id="@+id/btGame9"
+                    <Button
+                        android:id="@+id/btGame1"
+                        android:layout_width="match_parent"
+                        android:layout_height="80dp"
+                        android:layout_gravity="center"
+                        android:layout_margin="10dp"
+                        android:text="Capitulo 1"
+                        android:background="@color/colorPrimary"
+                        android:textColor="@color/textColor"
 
-        />
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="80dp"
-        android:text="Capitulo10"
-        android:layout_gravity="center"
-        android:id="@+id/btGame10"
-        />
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="80dp"
-        android:text="Capitulo11"
-        android:layout_gravity="center"
-        android:id="@+id/btGame11"
-        />
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="80dp"
-        android:text="Todos"
-        android:layout_gravity="center"
-        android:id="@+id/btGame0"
-        />
+
+                        />
 
 
 
 
+                    <Button
+                        android:id="@+id/btGame2"
+                        android:layout_width="match_parent"
+                        android:layout_height="80dp"
 
-</LinearLayout>
+                        android:layout_gravity="center"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:background="@color/colorPrimary"
+                        android:text="Capitulo 2"
+                        android:textColor="@color/textColor" />
+
+
+                    <Button
+                        android:id="@+id/btGame3"
+                        android:layout_width="match_parent"
+                        android:layout_height="80dp"
+                        android:layout_gravity="center"
+                        android:layout_margin="10dp"
+                        android:background="@color/colorPrimary"
+                        android:text="Capitulo 3"
+                        android:textColor="@color/textColor"
+                        android:layout_weight="1"
+
+                        />
+
+
+
+                    <Button
+                        android:id="@+id/btGame4"
+                        android:layout_width="match_parent"
+                        android:layout_height="80dp"
+
+                        android:layout_gravity="center"
+                        android:layout_margin="10dp"
+                        android:background="@color/colorPrimary"
+                        android:text="Capitulo 4"
+                        android:textColor="@color/textColor"
+                        android:layout_weight="1"/>
+
+                    <Button
+                        android:id="@+id/btGame8"
+                        android:layout_width="match_parent"
+                        android:layout_height="80dp"
+                        android:layout_gravity="center"
+                        android:layout_margin="10dp"
+                        android:background="@color/colorPrimary"
+                        android:text="Capitulo 8"
+                        android:textColor="@color/textColor"
+                        android:layout_weight="1"
+
+                        />
+
+
+
+                    <Button
+                        android:id="@+id/btGame9"
+                        android:layout_width="match_parent"
+                        android:layout_height="80dp"
+
+                        android:layout_gravity="center"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:background="@color/colorPrimary"
+                        android:text="Capitulo 9"
+                        android:textColor="@color/textColor" />
+
+                    <Button
+                        android:id="@+id/btGame10"
+                        android:layout_width="match_parent"
+                        android:layout_height="80dp"
+                        android:layout_gravity="center"
+                        android:layout_margin="10dp"
+                        android:background="@color/colorPrimary"
+                        android:text="Capitulo 10"
+                        android:textColor="@color/textColor"
+                        android:layout_weight="1"
+
+                        />
+
+
+                    <Button
+                        android:id="@+id/btGame11"
+                        android:layout_width="match_parent"
+                        android:layout_height="80dp"
+
+                        android:layout_gravity="center"
+                        android:layout_margin="10dp"
+                        android:background="@color/colorPrimary"
+                        android:text="Capitulo 11"
+                        android:textColor="@color/textColor"
+                        android:layout_weight="1"/>
+
+                    <Button
+                        android:id="@+id/btGame12"
+                        android:layout_width="match_parent"
+                        android:layout_height="80dp"
+
+                        android:layout_gravity="center"
+                        android:layout_margin="10dp"
+                        android:background="@color/colorPrimary"
+                        android:text="Capitulo 12"
+                        android:textColor="@color/textColor"
+                        android:layout_weight="1"/>
+
+                    <Button
+                        android:id="@+id/btGame0"
+                        android:layout_width="match_parent"
+                        android:layout_height="80dp"
+                        android:layout_gravity="center"
+                        android:layout_margin="10dp"
+                        android:background="@color/colorPrimary"
+                        android:text="TODOS"
+                        android:textColor="@color/textColor"
+                        android:layout_weight="1"
+                        />
+
+
+
+
+
+
+        </LinearLayout>
+
     </ScrollView>
 
 </androidx.appcompat.widget.LinearLayoutCompat>

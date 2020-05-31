@@ -15,7 +15,7 @@ public class Games extends AppCompatActivity
 {
     public static CountDownTimer mCountDownTimer ;
     public static int iCapitulo;
-    Button btCap0,btCap1,btCap2,btCap3,btCap4,btCap8,btCap9,btCap10,btCap11;
+    Button btCap0,btCap1,btCap2,btCap3,btCap4,btCap8,btCap9,btCap10,btCap11,btCap12;
 
 
     public void onBackPressed()
@@ -41,6 +41,7 @@ public class Games extends AppCompatActivity
         btCap9=(Button)findViewById(R.id.btGame9);
         btCap10=(Button)findViewById(R.id.btGame10);
         btCap11=(Button)findViewById(R.id.btGame11);
+        btCap12=(Button)findViewById(R.id.btGame12);
 
 
         btCap1.setOnClickListener(new View.OnClickListener()
@@ -117,6 +118,15 @@ public class Games extends AppCompatActivity
                     startActivity(toVocabulario);
 
         }
+        });
+        btCap12.setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v) {
+                iCapitulo = 12;
+                Intent toVocabulario = new Intent(Games.this, Capitulo1B.class);
+                startActivity(toVocabulario);
+            }
         });
         btCap0.setOnClickListener(new View.OnClickListener()
         {

@@ -871,6 +871,112 @@
         <item>Australia</item>
 
     </string-array>
+
+    <string-array name="Cap12">
+        <item>かんたい[な]</item>
+        <item>ちかい</item>
+        <item>とおい</item>
+        <item>はやい</item>
+        <item>おそい</item>
+        <item>おおい[ひとが～]</item>
+        <item>すきない[ひとが～]</item>
+        <item>おたたかい</item>
+        <item>すずしい</item>
+        <item>あまい</item>
+        <item>からい</item>
+        <item>おもい</item>
+        <item>かるい</item>
+        <item>いい[コーヒーが～]</item>
+        <item>きせつ</item>
+        <item>はる</item>
+        <item>なつ</item>
+        <item>あき</item>
+        <item>ふゆ</item>
+        <item>てんき</item>
+        <item>あめ</item>
+        <item>ゆき</item>
+        <item>くもり</item>
+        <item>ホテル</item>
+        <item>くうこう</item>
+        <item>うみ</item>
+        <item>せかい</item>
+        <item>パーティー</item>
+        <item>[お]まつり</item>
+        <item>しけん</item>
+        <item>すきやき</item>
+        <item>さしみ</item>
+        <item>[お]すし</item>
+        <item>てんぷら</item>
+        <item>いけばな</item>
+        <item>もみじ</item>
+        <item>どちら</item>
+        <item>どちらも</item>
+        <item>ずっと</item>
+        <item>はじめて</item>
+        <item>ただいま。</item>
+        <item>おかえりなさい。</item>
+        <item>すごいですね。</item>
+        <item>でも</item>
+        <item>つかれました。</item>
+        <item>ホンコン</item>
+        <item>シンガポール</item>
+
+
+    </string-array>
+
+    <string-array name="Cap12R">
+        <item>fácil, sencillo</item>
+        <item>cercano</item>
+        <item>distante, lejano</item>
+        <item>rápido, temprano</item>
+        <item>tarde, lento, despacio</item>
+        <item>mucha [gente], muchos, mucho</item>
+        <item>poca[gente], un poco</item>
+        <item>tibio, cálido, templado</item>
+        <item>fresco (relativo a la temperatura)</item>
+        <item>dulce</item>
+        <item>picante, picoso</item>
+        <item>pesado</item>
+        <item>ligero liviano</item>
+        <item>preferir [café] (elegir entre 2 cosas)</item>
+        <item>estación (del año)</item>
+        <item>primavera</item>
+        <item>verano</item>
+        <item>otoño</item>
+        <item>invierno</item>
+        <item>tiempo (de clima)</item>
+        <item>lluvia</item>
+        <item>nieve, nevada</item>
+        <item>nublado</item>
+        <item>hotel</item>
+        <item>aeropuerto</item>
+        <item>mar, océano</item>
+        <item>mundo</item>
+        <item>fiesta</item>
+        <item>festival</item>
+        <item>examen</item>
+        <item>sikiyai</item>
+        <item>sashimi</item>
+        <item>sushi</item>
+        <item>tempura</item>
+        <item>arreglo floral</item>
+        <item>arce, hojas coloradas de otoño</item>
+        <item>cuál (de entre 2 cosas)</item>
+        <item>ambos/as</item>
+        <item>mucho más</item>
+        <item>por primera vez</item>
+        <item>lit. He llegado.</item>
+        <item>lit. Bienvenido de vuelta.</item>
+        <item>¡Es admirable!</item>
+        <item>pero</item>
+        <item>(estoy)cansado.</item>
+        <item>Hong Kong</item>
+        <item>Singapur</item>
+
+
+
+    </string-array>
+
     <string-array name="vacio">
         <item></item>
         <item></item>
@@ -1354,6 +1460,53 @@
         <item>いってまいります。</item>
         <item>それから</item>
         <item>オーストラリア</item>
+        <item>かんたい[な]</item>
+        <item>ちかい</item>
+        <item>とおい</item>
+        <item>はやい</item>
+        <item>おそい</item>
+        <item>おおい[ひとが～]</item>
+        <item>すきない[ひとが～]</item>
+        <item>おたたかい</item>
+        <item>すずしい</item>
+        <item>あまい</item>
+        <item>からい</item>
+        <item>おもい</item>
+        <item>かるい</item>
+        <item>いい[コーヒーが～]</item>
+        <item>きせつ</item>
+        <item>はる</item>
+        <item>なつ</item>
+        <item>あき</item>
+        <item>ふゆ</item>
+        <item>てんき</item>
+        <item>あめ</item>
+        <item>ゆき</item>
+        <item>くもり</item>
+        <item>ホテル</item>
+        <item>くうこう</item>
+        <item>うみ</item>
+        <item>せかい</item>
+        <item>パーティー</item>
+        <item>[お]まつり</item>
+        <item>しけん</item>
+        <item>すきやき</item>
+        <item>さしみ</item>
+        <item>[お]すし</item>
+        <item>てんぷら</item>
+        <item>いけばな</item>
+        <item>もみじ</item>
+        <item>どちら</item>
+        <item>どちらも</item>
+        <item>ずっと</item>
+        <item>はじめて</item>
+        <item>ただいま。</item>
+        <item>おかえりなさい。</item>
+        <item>すごいですね。</item>
+        <item>でも</item>
+        <item>つかれました。</item>
+        <item>ホンコン</item>
+        <item>シンガポール</item>
     </string-array>
 
     <string-array name="Cap0R">
@@ -1764,6 +1917,53 @@
         <item>Hasta luego. (lit. Salgo y vuelvo)</item>
         <item>Y, además</item>
         <item>Australia</item>
+        <item>fácil, sencillo</item>
+        <item>cercano</item>
+        <item>distante, lejano</item>
+        <item>rápido, temprano</item>
+        <item>tarde, lento, despacio</item>
+        <item>mucha [gente], muchos, mucho</item>
+        <item>poca[gente], un poco</item>
+        <item>tibio, cálido, templado</item>
+        <item>fresco (relativo a la temperatura)</item>
+        <item>dulce</item>
+        <item>picante, picoso</item>
+        <item>pesado</item>
+        <item>ligero liviano</item>
+        <item>preferir [café] (elegir entre 2 cosas)</item>
+        <item>estación (del año)</item>
+        <item>primavera</item>
+        <item>verano</item>
+        <item>otoño</item>
+        <item>invierno</item>
+        <item>tiempo (de clima)</item>
+        <item>lluvia</item>
+        <item>nieve, nevada</item>
+        <item>nublado</item>
+        <item>hotel</item>
+        <item>aeropuerto</item>
+        <item>mar, océano</item>
+        <item>mundo</item>
+        <item>fiesta</item>
+        <item>festival</item>
+        <item>examen</item>
+        <item>sikiyai</item>
+        <item>sashimi</item>
+        <item>sushi</item>
+        <item>tempura</item>
+        <item>arreglo floral</item>
+        <item>arce, hojas coloradas de otoño</item>
+        <item>cuál (de entre 2 cosas)</item>
+        <item>ambos/as</item>
+        <item>mucho más</item>
+        <item>por primera vez</item>
+        <item>lit. He llegado.</item>
+        <item>lit. Bienvenido de vuelta.</item>
+        <item>¡Es admirable!</item>
+        <item>pero</item>
+        <item>(estoy)cansado.</item>
+        <item>Hong Kong</item>
+        <item>Singapur</item>
     </string-array>
 </resources>
 

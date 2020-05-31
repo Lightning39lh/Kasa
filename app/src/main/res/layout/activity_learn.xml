@@ -11,6 +11,9 @@
         android:text="Vocabulario"
         android:layout_gravity="center"
         android:id="@+id/btVocabulario"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/textColor"
+        android:layout_margin="10dp"
 
         />
     <Button
@@ -19,6 +22,9 @@
         android:text="Particulas"
         android:layout_gravity="center"
         android:id="@+id/btParticulas"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/textColor"
+        android:layout_margin="10dp"
         />
 
     <Button
@@ -27,6 +33,9 @@
         android:text="traductor (por palabras)"
         android:layout_gravity="center"
         android:id="@+id/btTraductor"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/textColor"
+        android:layout_margin="10dp"
         />
 
 
